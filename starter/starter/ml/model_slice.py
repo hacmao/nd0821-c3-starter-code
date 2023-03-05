@@ -1,10 +1,12 @@
 import pandas as pd
 import logging
 
+
 def slice_metric(df, cat_feature, num_feature):
     """ Function for calculating descriptive stats on slices of dataset."""
     logger.info("-------------------------------------------")
-    logger.info(f"Calculate slice performance for {num_feature} with {cat_feature} held fixed value")
+    logger.info(f"Calculate slice performance for \
+        {num_feature} with {cat_feature} held fixed value")
     for cls in df[cat_feature].unique():
         df_temp = df[df[cat_feature] == cls]
         mean = df_temp[num_feature].mean()
@@ -13,7 +15,9 @@ def slice_metric(df, cat_feature, num_feature):
         logger.info(f"{num_feature} mean: {mean:.4f}")
         logger.info(f"{num_feature} stddev: {stddev:.4f}\n")
 
-logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s", filename="../../model/slice_output.txt")
+
+logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s",
+                    filename="../../model/slice_output.txt")
 logger = logging.getLogger()
 
 
