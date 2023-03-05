@@ -3,12 +3,13 @@ from joblib import load
 from pydantic import BaseModel
 from starter.ml.model import inference
 import pandas as pd
-from typing import List
 from starter.ml.data import process_data
 app = FastAPI()
 
+
 def to_hyphen(string: str) -> str:
     return string.replace("_", "-")
+
 
 class PersonInfo(BaseModel):
     age: float
@@ -28,10 +29,12 @@ class PersonInfo(BaseModel):
 
     class Config:
         alias_generator = to_hyphen
-    
+
+
 @app.get("/")
 async def get_message():
     return {"message": "welcome"}
+
 
 @app.post("/")
 async def post_inference(person_info: PersonInfo):
