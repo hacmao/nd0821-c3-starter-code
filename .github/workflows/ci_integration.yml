@@ -30,4 +30,4 @@ jobs:
     
     - name: Run python test
       run: python test_model.py
-      working-directory: starter/starter/ml/
+      working-directory: ml/
