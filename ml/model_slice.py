@@ -17,7 +17,7 @@ def slice_metric(df, cat_feature, num_feature):
 
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)-15s %(message)s",
-                    filename="../../model/slice_output.txt")
+                    filename="../model/slice_output.txt")
 logger = logging.getLogger()
 
 
@@ -42,7 +42,7 @@ num_features = [
 ]
 
 # Read data
-data = pd.read_csv('../../data/census.csv')
+data = pd.read_csv('../data/census.csv')
 
 # calculate slice performance
 for cat_feature in cat_features:

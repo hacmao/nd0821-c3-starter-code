@@ -61,9 +61,9 @@ async def post_inference(person_info: PersonInfo):
     person_info_df = pd.DataFrame([person_info_dict])
 
     # Load model and encoder, lb
-    saved_model = load("starter/model/model.joblib")
-    encoder = load("starter/model/encoder.joblib")
-    lb = load("starter/model/lb.joblib")
+    saved_model = load("model/model.joblib")
+    encoder = load("model/encoder.joblib")
+    lb = load("model/lb.joblib")
 
     # Process data using encoder, lb
     cat_features = [

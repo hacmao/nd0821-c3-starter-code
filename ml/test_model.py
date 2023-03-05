@@ -27,7 +27,7 @@ def test_inference(model, x):
 
 
 if __name__ == "__main__":
-    data = pd.read_csv('../../data/census.csv')
+    data = pd.read_csv('../data/census.csv')
 
     train, test = train_test_split(data, test_size=0.20)
 
@@ -50,7 +50,7 @@ if __name__ == "__main__":
         train, categorical_features=cat_features, label="salary", training=True
     )
 
-    # Train and save a model.
+    # test model and inference
     test_train_model(X_train, y_train)
     model = train_model(X_train, y_train)
 

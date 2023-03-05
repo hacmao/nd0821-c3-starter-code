@@ -1,0 +1,2544 @@
+2023-03-05 10:50:34,679 -------------------------------------------
+2023-03-05 10:50:34,679 Calculate slice performance for         age with workclass held fixed value
+2023-03-05 10:50:34,685 workclass: State-gov
+2023-03-05 10:50:34,685 age mean: 39.4361
+2023-03-05 10:50:34,685 age stddev: 12.4311
+
+2023-03-05 10:50:34,686 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,686 age mean: 44.9697
+2023-03-05 10:50:34,686 age stddev: 13.3382
+
+2023-03-05 10:50:34,688 workclass: Private
+2023-03-05 10:50:34,688 age mean: 36.7976
+2023-03-05 10:50:34,688 age stddev: 12.8277
+
+2023-03-05 10:50:34,690 workclass: Federal-gov
+2023-03-05 10:50:34,690 age mean: 42.5906
+2023-03-05 10:50:34,690 age stddev: 11.5092
+
+2023-03-05 10:50:34,691 workclass: Local-gov
+2023-03-05 10:50:34,691 age mean: 41.7511
+2023-03-05 10:50:34,691 age stddev: 12.2729
+
+2023-03-05 10:50:34,693 workclass: ?
+2023-03-05 10:50:34,693 age mean: 40.9602
+2023-03-05 10:50:34,693 age stddev: 20.3346
+
+2023-03-05 10:50:34,694 workclass: Self-emp-inc
+2023-03-05 10:50:34,694 age mean: 46.0170
+2023-03-05 10:50:34,694 age stddev: 12.5532
+
+2023-03-05 10:50:34,695 workclass: Without-pay
+2023-03-05 10:50:34,695 age mean: 47.7857
+2023-03-05 10:50:34,695 age stddev: 21.0756
+
+2023-03-05 10:50:34,696 workclass: Never-worked
+2023-03-05 10:50:34,696 age mean: 20.5714
+2023-03-05 10:50:34,696 age stddev: 4.6136
+
+2023-03-05 10:50:34,696 -------------------------------------------
+2023-03-05 10:50:34,696 Calculate slice performance for         fnlgt with workclass held fixed value
+2023-03-05 10:50:34,698 workclass: State-gov
+2023-03-05 10:50:34,698 fnlgt mean: 184136.6133
+2023-03-05 10:50:34,698 fnlgt stddev: 111512.9809
+
+2023-03-05 10:50:34,699 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,699 fnlgt mean: 175608.6415
+2023-03-05 10:50:34,699 fnlgt stddev: 100735.7577
+
+2023-03-05 10:50:34,701 workclass: Private
+2023-03-05 10:50:34,701 fnlgt mean: 192764.1147
+2023-03-05 10:50:34,701 fnlgt stddev: 105789.6683
+
+2023-03-05 10:50:34,703 workclass: Federal-gov
+2023-03-05 10:50:34,703 fnlgt mean: 185221.2437
+2023-03-05 10:50:34,703 fnlgt stddev: 117502.3595
+
+2023-03-05 10:50:34,704 workclass: Local-gov
+2023-03-05 10:50:34,704 fnlgt mean: 188639.7129
+2023-03-05 10:50:34,704 fnlgt stddev: 100254.7753
+
+2023-03-05 10:50:34,705 workclass: ?
+2023-03-05 10:50:34,705 fnlgt mean: 188516.3382
+2023-03-05 10:50:34,705 fnlgt stddev: 107089.9023
+
+2023-03-05 10:50:34,706 workclass: Self-emp-inc
+2023-03-05 10:50:34,706 fnlgt mean: 175981.3441
+2023-03-05 10:50:34,706 fnlgt stddev: 96436.2829
+
+2023-03-05 10:50:34,707 workclass: Without-pay
+2023-03-05 10:50:34,707 fnlgt mean: 174267.5000
+2023-03-05 10:50:34,707 fnlgt stddev: 85536.3859
+
+2023-03-05 10:50:34,708 workclass: Never-worked
+2023-03-05 10:50:34,708 fnlgt mean: 225989.5714
+2023-03-05 10:50:34,708 fnlgt stddev: 108135.7483
+
+2023-03-05 10:50:34,708 -------------------------------------------
+2023-03-05 10:50:34,708 Calculate slice performance for         education-num with workclass held fixed value
+2023-03-05 10:50:34,710 workclass: State-gov
+2023-03-05 10:50:34,710 education-num mean: 11.3760
+2023-03-05 10:50:34,710 education-num stddev: 2.5386
+
+2023-03-05 10:50:34,711 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,711 education-num mean: 10.2263
+2023-03-05 10:50:34,711 education-num stddev: 2.7681
+
+2023-03-05 10:50:34,713 workclass: Private
+2023-03-05 10:50:34,713 education-num mean: 9.8797
+2023-03-05 10:50:34,713 education-num stddev: 2.4955
+
+2023-03-05 10:50:34,715 workclass: Federal-gov
+2023-03-05 10:50:34,715 education-num mean: 10.9740
+2023-03-05 10:50:34,715 education-num stddev: 2.1137
+
+2023-03-05 10:50:34,716 workclass: Local-gov
+2023-03-05 10:50:34,716 education-num mean: 11.0420
+2023-03-05 10:50:34,716 education-num stddev: 2.5525
+
+2023-03-05 10:50:34,717 workclass: ?
+2023-03-05 10:50:34,717 education-num mean: 9.2603
+2023-03-05 10:50:34,717 education-num stddev: 2.6020
+
+2023-03-05 10:50:34,718 workclass: Self-emp-inc
+2023-03-05 10:50:34,718 education-num mean: 11.1371
+2023-03-05 10:50:34,718 education-num stddev: 2.6032
+
+2023-03-05 10:50:34,719 workclass: Without-pay
+2023-03-05 10:50:34,719 education-num mean: 9.0714
+2023-03-05 10:50:34,719 education-num stddev: 1.6854
+
+2023-03-05 10:50:34,720 workclass: Never-worked
+2023-03-05 10:50:34,720 education-num mean: 7.4286
+2023-03-05 10:50:34,720 education-num stddev: 2.2991
+
+2023-03-05 10:50:34,720 -------------------------------------------
+2023-03-05 10:50:34,720 Calculate slice performance for         capital-gain with workclass held fixed value
+2023-03-05 10:50:34,722 workclass: State-gov
+2023-03-05 10:50:34,722 capital-gain mean: 701.6995
+2023-03-05 10:50:34,722 capital-gain stddev: 3777.7492
+
+2023-03-05 10:50:34,723 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,723 capital-gain mean: 1886.0618
+2023-03-05 10:50:34,723 capital-gain stddev: 10986.2335
+
+2023-03-05 10:50:34,725 workclass: Private
+2023-03-05 10:50:34,725 capital-gain mean: 889.2178
+2023-03-05 10:50:34,725 capital-gain stddev: 6424.2676
+
+2023-03-05 10:50:34,726 workclass: Federal-gov
+2023-03-05 10:50:34,726 capital-gain mean: 833.2323
+2023-03-05 10:50:34,726 capital-gain stddev: 4101.9668
+
+2023-03-05 10:50:34,728 workclass: Local-gov
+2023-03-05 10:50:34,728 capital-gain mean: 880.2026
+2023-03-05 10:50:34,728 capital-gain stddev: 5775.0434
+
+2023-03-05 10:50:34,729 workclass: ?
+2023-03-05 10:50:34,729 capital-gain mean: 606.7958
+2023-03-05 10:50:34,729 capital-gain stddev: 5147.3239
+
+2023-03-05 10:50:34,730 workclass: Self-emp-inc
+2023-03-05 10:50:34,730 capital-gain mean: 4875.6935
+2023-03-05 10:50:34,730 capital-gain stddev: 17976.5481
+
+2023-03-05 10:50:34,731 workclass: Without-pay
+2023-03-05 10:50:34,731 capital-gain mean: 487.8571
+2023-03-05 10:50:34,731 capital-gain stddev: 1300.7805
+
+2023-03-05 10:50:34,732 workclass: Never-worked
+2023-03-05 10:50:34,732 capital-gain mean: 0.0000
+2023-03-05 10:50:34,732 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:34,732 -------------------------------------------
+2023-03-05 10:50:34,732 Calculate slice performance for         capital-loss with workclass held fixed value
+2023-03-05 10:50:34,734 workclass: State-gov
+2023-03-05 10:50:34,734 capital-loss mean: 83.2565
+2023-03-05 10:50:34,734 capital-loss stddev: 394.4698
+
+2023-03-05 10:50:34,735 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,735 capital-loss mean: 116.6316
+2023-03-05 10:50:34,735 capital-loss stddev: 467.6117
+
+2023-03-05 10:50:34,737 workclass: Private
+2023-03-05 10:50:34,737 capital-loss mean: 80.0087
+2023-03-05 10:50:34,737 capital-loss stddev: 384.1570
+
+2023-03-05 10:50:34,738 workclass: Federal-gov
+2023-03-05 10:50:34,738 capital-loss mean: 112.2687
+2023-03-05 10:50:34,738 capital-loss stddev: 453.5046
+
+2023-03-05 10:50:34,739 workclass: Local-gov
+2023-03-05 10:50:34,739 capital-loss mean: 109.8543
+2023-03-05 10:50:34,739 capital-loss stddev: 439.5132
+
+2023-03-05 10:50:34,740 workclass: ?
+2023-03-05 10:50:34,740 capital-loss mean: 60.7603
+2023-03-05 10:50:34,740 capital-loss stddev: 354.6853
+
+2023-03-05 10:50:34,741 workclass: Self-emp-inc
+2023-03-05 10:50:34,741 capital-loss mean: 155.1389
+2023-03-05 10:50:34,741 capital-loss stddev: 549.4885
+
+2023-03-05 10:50:34,742 workclass: Without-pay
+2023-03-05 10:50:34,742 capital-loss mean: 0.0000
+2023-03-05 10:50:34,742 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:34,743 workclass: Never-worked
+2023-03-05 10:50:34,743 capital-loss mean: 0.0000
+2023-03-05 10:50:34,743 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:34,743 -------------------------------------------
+2023-03-05 10:50:34,743 Calculate slice performance for         hours-per-week with workclass held fixed value
+2023-03-05 10:50:34,745 workclass: State-gov
+2023-03-05 10:50:34,745 hours-per-week mean: 39.0316
+2023-03-05 10:50:34,745 hours-per-week stddev: 11.6970
+
+2023-03-05 10:50:34,746 workclass: Self-emp-not-inc
+2023-03-05 10:50:34,746 hours-per-week mean: 44.4219
+2023-03-05 10:50:34,746 hours-per-week stddev: 16.6750
+
+2023-03-05 10:50:34,748 workclass: Private
+2023-03-05 10:50:34,748 hours-per-week mean: 40.2671
+2023-03-05 10:50:34,748 hours-per-week stddev: 11.2563
+
+2023-03-05 10:50:34,750 workclass: Federal-gov
+2023-03-05 10:50:34,750 hours-per-week mean: 41.3792
+2023-03-05 10:50:34,750 hours-per-week stddev: 8.8386
+
+2023-03-05 10:50:34,751 workclass: Local-gov
+2023-03-05 10:50:34,751 hours-per-week mean: 40.9828
+2023-03-05 10:50:34,751 hours-per-week stddev: 10.7716
+
+2023-03-05 10:50:34,752 workclass: ?
+2023-03-05 10:50:34,752 hours-per-week mean: 31.9194
+2023-03-05 10:50:34,752 hours-per-week stddev: 14.9099
+
+2023-03-05 10:50:34,753 workclass: Self-emp-inc
+2023-03-05 10:50:34,753 hours-per-week mean: 48.8181
+2023-03-05 10:50:34,753 hours-per-week stddev: 13.9004
+
+2023-03-05 10:50:34,754 workclass: Without-pay
+2023-03-05 10:50:34,754 hours-per-week mean: 32.7143
+2023-03-05 10:50:34,754 hours-per-week stddev: 17.3579
+
+2023-03-05 10:50:34,755 workclass: Never-worked
+2023-03-05 10:50:34,755 hours-per-week mean: 28.4286
+2023-03-05 10:50:34,755 hours-per-week stddev: 15.1861
+
+2023-03-05 10:50:34,755 -------------------------------------------
+2023-03-05 10:50:34,755 Calculate slice performance for         age with education held fixed value
+2023-03-05 10:50:34,757 education: Bachelors
+2023-03-05 10:50:34,757 age mean: 38.9049
+2023-03-05 10:50:34,757 age stddev: 11.9122
+
+2023-03-05 10:50:34,759 education: HS-grad
+2023-03-05 10:50:34,759 age mean: 38.9745
+2023-03-05 10:50:34,759 age stddev: 13.5415
+
+2023-03-05 10:50:34,760 education: 11th
+2023-03-05 10:50:34,760 age mean: 32.3557
+2023-03-05 10:50:34,760 age stddev: 15.5455
+
+2023-03-05 10:50:34,761 education: Masters
+2023-03-05 10:50:34,761 age mean: 44.0499
+2023-03-05 10:50:34,761 age stddev: 11.0689
+
+2023-03-05 10:50:34,762 education: 9th
+2023-03-05 10:50:34,762 age mean: 41.0603
+2023-03-05 10:50:34,762 age stddev: 15.9469
+
+2023-03-05 10:50:34,764 education: Some-college
+2023-03-05 10:50:34,764 age mean: 35.7563
+2023-03-05 10:50:34,764 age stddev: 13.4741
+
+2023-03-05 10:50:34,765 education: Assoc-acdm
+2023-03-05 10:50:34,765 age mean: 37.3814
+2023-03-05 10:50:34,765 age stddev: 11.0952
+
+2023-03-05 10:50:34,766 education: Assoc-voc
+2023-03-05 10:50:34,766 age mean: 38.5535
+2023-03-05 10:50:34,766 age stddev: 11.6313
+
+2023-03-05 10:50:34,767 education: 7th-8th
+2023-03-05 10:50:34,767 age mean: 48.4458
+2023-03-05 10:50:34,767 age stddev: 16.0923
+
+2023-03-05 10:50:34,768 education: Doctorate
+2023-03-05 10:50:34,768 age mean: 47.7022
+2023-03-05 10:50:34,768 age stddev: 11.7847
+
+2023-03-05 10:50:34,769 education: Prof-school
+2023-03-05 10:50:34,769 age mean: 44.7465
+2023-03-05 10:50:34,769 age stddev: 11.9625
+
+2023-03-05 10:50:34,771 education: 5th-6th
+2023-03-05 10:50:34,771 age mean: 42.8859
+2023-03-05 10:50:34,771 age stddev: 15.5573
+
+2023-03-05 10:50:34,772 education: 10th
+2023-03-05 10:50:34,772 age mean: 37.4298
+2023-03-05 10:50:34,772 age stddev: 16.7207
+
+2023-03-05 10:50:34,773 education: 1st-4th
+2023-03-05 10:50:34,773 age mean: 46.1429
+2023-03-05 10:50:34,773 age stddev: 15.6156
+
+2023-03-05 10:50:34,774 education: Preschool
+2023-03-05 10:50:34,774 age mean: 42.7647
+2023-03-05 10:50:34,774 age stddev: 15.1269
+
+2023-03-05 10:50:34,775 education: 12th
+2023-03-05 10:50:34,775 age mean: 32.0000
+2023-03-05 10:50:34,775 age stddev: 14.3346
+
+2023-03-05 10:50:34,775 -------------------------------------------
+2023-03-05 10:50:34,775 Calculate slice performance for         fnlgt with education held fixed value
+2023-03-05 10:50:34,777 education: Bachelors
+2023-03-05 10:50:34,777 fnlgt mean: 188055.9148
+2023-03-05 10:50:34,777 fnlgt stddev: 105199.0313
+
+2023-03-05 10:50:34,779 education: HS-grad
+2023-03-05 10:50:34,779 fnlgt mean: 189538.7397
+2023-03-05 10:50:34,779 fnlgt stddev: 103951.4945
+
+2023-03-05 10:50:34,780 education: 11th
+2023-03-05 10:50:34,780 fnlgt mean: 194928.0774
+2023-03-05 10:50:34,780 fnlgt stddev: 103539.8418
+
+2023-03-05 10:50:34,781 education: Masters
+2023-03-05 10:50:34,781 fnlgt mean: 179852.3627
+2023-03-05 10:50:34,781 fnlgt stddev: 97293.6397
+
+2023-03-05 10:50:34,782 education: 9th
+2023-03-05 10:50:34,782 fnlgt mean: 202485.0661
+2023-03-05 10:50:34,782 fnlgt stddev: 112131.9805
+
+2023-03-05 10:50:34,784 education: Some-college
+2023-03-05 10:50:34,784 fnlgt mean: 188742.9224
+2023-03-05 10:50:34,784 fnlgt stddev: 107710.4072
+
+2023-03-05 10:50:34,785 education: Assoc-acdm
+2023-03-05 10:50:34,785 fnlgt mean: 193424.0937
+2023-03-05 10:50:34,785 fnlgt stddev: 104905.1777
+
+2023-03-05 10:50:34,786 education: Assoc-voc
+2023-03-05 10:50:34,786 fnlgt mean: 181936.0166
+2023-03-05 10:50:34,786 fnlgt stddev: 104710.4554
+
+2023-03-05 10:50:34,787 education: 7th-8th
+2023-03-05 10:50:34,787 fnlgt mean: 188079.1718
+2023-03-05 10:50:34,787 fnlgt stddev: 105692.9875
+
+2023-03-05 10:50:34,788 education: Doctorate
+2023-03-05 10:50:34,788 fnlgt mean: 186698.7603
+2023-03-05 10:50:34,788 fnlgt stddev: 103838.0119
+
+2023-03-05 10:50:34,789 education: Prof-school
+2023-03-05 10:50:34,789 fnlgt mean: 185663.7066
+2023-03-05 10:50:34,789 fnlgt stddev: 92925.0405
+
+2023-03-05 10:50:34,790 education: 5th-6th
+2023-03-05 10:50:34,790 fnlgt mean: 232448.3333
+2023-03-05 10:50:34,790 fnlgt stddev: 108561.9294
+
+2023-03-05 10:50:34,791 education: 10th
+2023-03-05 10:50:34,791 fnlgt mean: 196832.4652
+2023-03-05 10:50:34,791 fnlgt stddev: 109165.2231
+
+2023-03-05 10:50:34,793 education: 1st-4th
+2023-03-05 10:50:34,793 fnlgt mean: 239303.0000
+2023-03-05 10:50:34,793 fnlgt stddev: 124869.9833
+
+2023-03-05 10:50:34,794 education: Preschool
+2023-03-05 10:50:34,794 fnlgt mean: 235889.3725
+2023-03-05 10:50:34,794 fnlgt stddev: 114191.2941
+
+2023-03-05 10:50:34,795 education: 12th
+2023-03-05 10:50:34,795 fnlgt mean: 199097.5081
+2023-03-05 10:50:34,795 fnlgt stddev: 124754.5624
+
+2023-03-05 10:50:34,795 -------------------------------------------
+2023-03-05 10:50:34,795 Calculate slice performance for         education-num with education held fixed value
+2023-03-05 10:50:34,797 education: Bachelors
+2023-03-05 10:50:34,797 education-num mean: 13.0000
+2023-03-05 10:50:34,797 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,798 education: HS-grad
+2023-03-05 10:50:34,798 education-num mean: 9.0000
+2023-03-05 10:50:34,798 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,800 education: 11th
+2023-03-05 10:50:34,800 education-num mean: 7.0000
+2023-03-05 10:50:34,800 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,801 education: Masters
+2023-03-05 10:50:34,801 education-num mean: 14.0000
+2023-03-05 10:50:34,801 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,802 education: 9th
+2023-03-05 10:50:34,802 education-num mean: 5.0000
+2023-03-05 10:50:34,802 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,803 education: Some-college
+2023-03-05 10:50:34,803 education-num mean: 10.0000
+2023-03-05 10:50:34,803 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,805 education: Assoc-acdm
+2023-03-05 10:50:34,805 education-num mean: 12.0000
+2023-03-05 10:50:34,805 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,806 education: Assoc-voc
+2023-03-05 10:50:34,806 education-num mean: 11.0000
+2023-03-05 10:50:34,806 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,807 education: 7th-8th
+2023-03-05 10:50:34,807 education-num mean: 4.0000
+2023-03-05 10:50:34,807 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,808 education: Doctorate
+2023-03-05 10:50:34,808 education-num mean: 16.0000
+2023-03-05 10:50:34,808 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,809 education: Prof-school
+2023-03-05 10:50:34,809 education-num mean: 15.0000
+2023-03-05 10:50:34,809 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,810 education: 5th-6th
+2023-03-05 10:50:34,810 education-num mean: 3.0000
+2023-03-05 10:50:34,810 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,811 education: 10th
+2023-03-05 10:50:34,811 education-num mean: 6.0000
+2023-03-05 10:50:34,811 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,812 education: 1st-4th
+2023-03-05 10:50:34,812 education-num mean: 2.0000
+2023-03-05 10:50:34,812 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,813 education: Preschool
+2023-03-05 10:50:34,813 education-num mean: 1.0000
+2023-03-05 10:50:34,813 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,814 education: 12th
+2023-03-05 10:50:34,814 education-num mean: 8.0000
+2023-03-05 10:50:34,814 education-num stddev: 0.0000
+
+2023-03-05 10:50:34,814 -------------------------------------------
+2023-03-05 10:50:34,815 Calculate slice performance for         capital-gain with education held fixed value
+2023-03-05 10:50:34,817 education: Bachelors
+2023-03-05 10:50:34,817 capital-gain mean: 1756.2995
+2023-03-05 10:50:34,817 capital-gain stddev: 9249.0077
+
+2023-03-05 10:50:34,818 education: HS-grad
+2023-03-05 10:50:34,818 capital-gain mean: 576.8001
+2023-03-05 10:50:34,818 capital-gain stddev: 4988.8222
+
+2023-03-05 10:50:34,819 education: 11th
+2023-03-05 10:50:34,819 capital-gain mean: 215.0979
+2023-03-05 10:50:34,819 capital-gain stddev: 1236.8030
+
+2023-03-05 10:50:34,821 education: Masters
+2023-03-05 10:50:34,821 capital-gain mean: 2562.5636
+2023-03-05 10:50:34,821 capital-gain stddev: 10912.3468
+
+2023-03-05 10:50:34,822 education: 9th
+2023-03-05 10:50:34,822 capital-gain mean: 342.0895
+2023-03-05 10:50:34,822 capital-gain stddev: 4456.6942
+
+2023-03-05 10:50:34,823 education: Some-college
+2023-03-05 10:50:34,823 capital-gain mean: 598.8242
+2023-03-05 10:50:34,823 capital-gain stddev: 4784.4941
+
+2023-03-05 10:50:34,824 education: Assoc-acdm
+2023-03-05 10:50:34,824 capital-gain mean: 640.3993
+2023-03-05 10:50:34,824 capital-gain stddev: 3839.3069
+
+2023-03-05 10:50:34,825 education: Assoc-voc
+2023-03-05 10:50:34,825 capital-gain mean: 715.0514
+2023-03-05 10:50:34,825 capital-gain stddev: 3637.6352
+
+2023-03-05 10:50:34,827 education: 7th-8th
+2023-03-05 10:50:34,827 capital-gain mean: 233.9396
+2023-03-05 10:50:34,827 capital-gain stddev: 1029.6775
+
+2023-03-05 10:50:34,828 education: Doctorate
+2023-03-05 10:50:34,828 capital-gain mean: 4770.1453
+2023-03-05 10:50:34,828 capital-gain stddev: 17239.5232
+
+2023-03-05 10:50:34,829 education: Prof-school
+2023-03-05 10:50:34,829 capital-gain mean: 10414.4167
+2023-03-05 10:50:34,829 capital-gain stddev: 27047.4866
+
+2023-03-05 10:50:34,830 education: 5th-6th
+2023-03-05 10:50:34,830 capital-gain mean: 176.0210
+2023-03-05 10:50:34,830 capital-gain stddev: 940.4344
+
+2023-03-05 10:50:34,831 education: 10th
+2023-03-05 10:50:34,831 capital-gain mean: 404.5745
+2023-03-05 10:50:34,831 capital-gain stddev: 4866.6500
+
+2023-03-05 10:50:34,832 education: 1st-4th
+2023-03-05 10:50:34,832 capital-gain mean: 125.8750
+2023-03-05 10:50:34,832 capital-gain stddev: 789.2576
+
+2023-03-05 10:50:34,833 education: Preschool
+2023-03-05 10:50:34,833 capital-gain mean: 898.3922
+2023-03-05 10:50:34,833 capital-gain stddev: 5806.3338
+
+2023-03-05 10:50:34,834 education: 12th
+2023-03-05 10:50:34,834 capital-gain mean: 284.0878
+2023-03-05 10:50:34,834 capital-gain stddev: 1664.9631
+
+2023-03-05 10:50:34,834 -------------------------------------------
+2023-03-05 10:50:34,834 Calculate slice performance for         capital-loss with education held fixed value
+2023-03-05 10:50:34,836 education: Bachelors
+2023-03-05 10:50:34,836 capital-loss mean: 118.3503
+2023-03-05 10:50:34,836 capital-loss stddev: 463.6454
+
+2023-03-05 10:50:34,838 education: HS-grad
+2023-03-05 10:50:34,838 capital-loss mean: 70.4666
+2023-03-05 10:50:34,838 capital-loss stddev: 361.0194
+
+2023-03-05 10:50:34,839 education: 11th
+2023-03-05 10:50:34,839 capital-loss mean: 50.0791
+2023-03-05 10:50:34,839 capital-loss stddev: 303.8687
+
+2023-03-05 10:50:34,840 education: Masters
+2023-03-05 10:50:34,840 capital-loss mean: 166.7197
+2023-03-05 10:50:34,840 capital-loss stddev: 550.6984
+
+2023-03-05 10:50:34,841 education: 9th
+2023-03-05 10:50:34,841 capital-loss mean: 28.9981
+2023-03-05 10:50:34,841 capital-loss stddev: 223.8202
+
+2023-03-05 10:50:34,843 education: Some-college
+2023-03-05 10:50:34,843 capital-loss mean: 71.6371
+2023-03-05 10:50:34,843 capital-loss stddev: 362.8476
+
+2023-03-05 10:50:34,844 education: Assoc-acdm
+2023-03-05 10:50:34,844 capital-loss mean: 93.4189
+2023-03-05 10:50:34,844 capital-loss stddev: 408.0802
+
+2023-03-05 10:50:34,845 education: Assoc-voc
+2023-03-05 10:50:34,845 capital-loss mean: 72.7547
+2023-03-05 10:50:34,845 capital-loss stddev: 367.6592
+
+2023-03-05 10:50:34,846 education: 7th-8th
+2023-03-05 10:50:34,846 capital-loss mean: 65.6687
+2023-03-05 10:50:34,846 capital-loss stddev: 355.7300
+
+2023-03-05 10:50:34,847 education: Doctorate
+2023-03-05 10:50:34,847 capital-loss mean: 262.8450
+2023-03-05 10:50:34,847 capital-loss stddev: 698.7166
+
+2023-03-05 10:50:34,848 education: Prof-school
+2023-03-05 10:50:34,848 capital-loss mean: 231.2031
+2023-03-05 10:50:34,848 capital-loss stddev: 663.1508
+
+2023-03-05 10:50:34,850 education: 5th-6th
+2023-03-05 10:50:34,850 capital-loss mean: 68.2523
+2023-03-05 10:50:34,850 capital-loss stddev: 373.9546
+
+2023-03-05 10:50:34,851 education: 10th
+2023-03-05 10:50:34,851 capital-loss mean: 56.8457
+2023-03-05 10:50:34,851 capital-loss stddev: 338.0419
+
+2023-03-05 10:50:34,852 education: 1st-4th
+2023-03-05 10:50:34,852 capital-loss mean: 48.3274
+2023-03-05 10:50:34,852 capital-loss stddev: 316.3026
+
+2023-03-05 10:50:34,853 education: Preschool
+2023-03-05 10:50:34,853 capital-loss mean: 66.4902
+2023-03-05 10:50:34,853 capital-loss stddev: 332.4177
+
+2023-03-05 10:50:34,854 education: 12th
+2023-03-05 10:50:34,854 capital-loss mean: 32.3372
+2023-03-05 10:50:34,854 capital-loss stddev: 237.6859
+
+2023-03-05 10:50:34,854 -------------------------------------------
+2023-03-05 10:50:34,854 Calculate slice performance for         hours-per-week with education held fixed value
+2023-03-05 10:50:34,856 education: Bachelors
+2023-03-05 10:50:34,856 hours-per-week mean: 42.6140
+2023-03-05 10:50:34,856 hours-per-week stddev: 11.4462
+
+2023-03-05 10:50:34,858 education: HS-grad
+2023-03-05 10:50:34,858 hours-per-week mean: 40.5754
+2023-03-05 10:50:34,858 hours-per-week stddev: 11.3338
+
+2023-03-05 10:50:34,859 education: 11th
+2023-03-05 10:50:34,859 hours-per-week mean: 33.9260
+2023-03-05 10:50:34,859 hours-per-week stddev: 13.9654
+
+2023-03-05 10:50:34,860 education: Masters
+2023-03-05 10:50:34,860 hours-per-week mean: 43.8363
+2023-03-05 10:50:34,860 hours-per-week stddev: 12.2778
+
+2023-03-05 10:50:34,861 education: 9th
+2023-03-05 10:50:34,861 hours-per-week mean: 38.0447
+2023-03-05 10:50:34,861 hours-per-week stddev: 11.0644
+
+2023-03-05 10:50:34,862 education: Some-college
+2023-03-05 10:50:34,862 hours-per-week mean: 38.8523
+2023-03-05 10:50:34,862 hours-per-week stddev: 12.7619
+
+2023-03-05 10:50:34,864 education: Assoc-acdm
+2023-03-05 10:50:34,864 hours-per-week mean: 40.5042
+2023-03-05 10:50:34,864 hours-per-week stddev: 12.1967
+
+2023-03-05 10:50:34,865 education: Assoc-voc
+2023-03-05 10:50:34,865 hours-per-week mean: 41.6107
+2023-03-05 10:50:34,865 hours-per-week stddev: 10.7934
+
+2023-03-05 10:50:34,866 education: 7th-8th
+2023-03-05 10:50:34,866 hours-per-week mean: 39.3669
+2023-03-05 10:50:34,866 hours-per-week stddev: 14.2019
+
+2023-03-05 10:50:34,867 education: Doctorate
+2023-03-05 10:50:34,867 hours-per-week mean: 46.9734
+2023-03-05 10:50:34,867 hours-per-week stddev: 15.0844
+
+2023-03-05 10:50:34,868 education: Prof-school
+2023-03-05 10:50:34,868 hours-per-week mean: 47.4253
+2023-03-05 10:50:34,868 hours-per-week stddev: 14.8060
+
+2023-03-05 10:50:34,869 education: 5th-6th
+2023-03-05 10:50:34,869 hours-per-week mean: 38.8979
+2023-03-05 10:50:34,869 hours-per-week stddev: 10.5517
+
+2023-03-05 10:50:34,870 education: 10th
+2023-03-05 10:50:34,870 hours-per-week mean: 37.0525
+2023-03-05 10:50:34,870 hours-per-week stddev: 13.7881
+
+2023-03-05 10:50:34,871 education: 1st-4th
+2023-03-05 10:50:34,871 hours-per-week mean: 38.2560
+2023-03-05 10:50:34,871 hours-per-week stddev: 12.8487
+
+2023-03-05 10:50:34,873 education: Preschool
+2023-03-05 10:50:34,873 hours-per-week mean: 36.6471
+2023-03-05 10:50:34,873 hours-per-week stddev: 12.5552
+
+2023-03-05 10:50:34,874 education: 12th
+2023-03-05 10:50:34,874 hours-per-week mean: 35.7806
+2023-03-05 10:50:34,874 hours-per-week stddev: 12.6264
+
+2023-03-05 10:50:34,874 -------------------------------------------
+2023-03-05 10:50:34,874 Calculate slice performance for         age with marital-status held fixed value
+2023-03-05 10:50:34,876 marital-status: Never-married
+2023-03-05 10:50:34,876 age mean: 28.1510
+2023-03-05 10:50:34,876 age stddev: 10.0072
+
+2023-03-05 10:50:34,878 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,878 age mean: 43.2476
+2023-03-05 10:50:34,878 age stddev: 12.0560
+
+2023-03-05 10:50:34,879 marital-status: Divorced
+2023-03-05 10:50:34,879 age mean: 43.0416
+2023-03-05 10:50:34,879 age stddev: 10.4004
+
+2023-03-05 10:50:34,880 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,880 age mean: 40.5789
+2023-03-05 10:50:34,880 age stddev: 12.3977
+
+2023-03-05 10:50:34,881 marital-status: Separated
+2023-03-05 10:50:34,881 age mean: 39.3541
+2023-03-05 10:50:34,881 age stddev: 10.8360
+
+2023-03-05 10:50:34,883 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,883 age mean: 32.4783
+2023-03-05 10:50:34,883 age stddev: 11.6106
+
+2023-03-05 10:50:34,884 marital-status: Widowed
+2023-03-05 10:50:34,884 age mean: 58.9758
+2023-03-05 10:50:34,884 age stddev: 12.3456
+
+2023-03-05 10:50:34,884 -------------------------------------------
+2023-03-05 10:50:34,884 Calculate slice performance for         fnlgt with marital-status held fixed value
+2023-03-05 10:50:34,886 marital-status: Never-married
+2023-03-05 10:50:34,886 fnlgt mean: 195383.3090
+2023-03-05 10:50:34,886 fnlgt stddev: 107765.3546
+
+2023-03-05 10:50:34,888 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,888 fnlgt mean: 186763.1729
+2023-03-05 10:50:34,888 fnlgt stddev: 103097.5430
+
+2023-03-05 10:50:34,889 marital-status: Divorced
+2023-03-05 10:50:34,889 fnlgt mean: 185802.7905
+2023-03-05 10:50:34,889 fnlgt stddev: 105646.7895
+
+2023-03-05 10:50:34,890 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,890 fnlgt mean: 193141.7608
+2023-03-05 10:50:34,890 fnlgt stddev: 114937.5987
+
+2023-03-05 10:50:34,891 marital-status: Separated
+2023-03-05 10:50:34,892 fnlgt mean: 206444.3259
+2023-03-05 10:50:34,892 fnlgt stddev: 117601.3262
+
+2023-03-05 10:50:34,893 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,893 fnlgt mean: 188165.5652
+2023-03-05 10:50:34,893 fnlgt stddev: 139868.8011
+
+2023-03-05 10:50:34,894 marital-status: Widowed
+2023-03-05 10:50:34,894 fnlgt mean: 174159.0423
+2023-03-05 10:50:34,894 fnlgt stddev: 94005.3793
+
+2023-03-05 10:50:34,894 -------------------------------------------
+2023-03-05 10:50:34,894 Calculate slice performance for         education-num with marital-status held fixed value
+2023-03-05 10:50:34,896 marital-status: Never-married
+2023-03-05 10:50:34,896 education-num mean: 9.9625
+2023-03-05 10:50:34,896 education-num stddev: 2.3880
+
+2023-03-05 10:50:34,898 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,898 education-num mean: 10.3206
+2023-03-05 10:50:34,898 education-num stddev: 2.7175
+
+2023-03-05 10:50:34,900 marital-status: Divorced
+2023-03-05 10:50:34,900 education-num mean: 10.0304
+2023-03-05 10:50:34,900 education-num stddev: 2.2772
+
+2023-03-05 10:50:34,901 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,901 education-num mean: 9.3086
+2023-03-05 10:50:34,901 education-num stddev: 3.2620
+
+2023-03-05 10:50:34,902 marital-status: Separated
+2023-03-05 10:50:34,902 education-num mean: 9.2937
+2023-03-05 10:50:34,902 education-num stddev: 2.4607
+
+2023-03-05 10:50:34,903 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,903 education-num mean: 10.1739
+2023-03-05 10:50:34,903 education-num stddev: 1.6139
+
+2023-03-05 10:50:34,904 marital-status: Widowed
+2023-03-05 10:50:34,904 education-num mean: 9.0937
+2023-03-05 10:50:34,904 education-num stddev: 2.7320
+
+2023-03-05 10:50:34,904 -------------------------------------------
+2023-03-05 10:50:34,904 Calculate slice performance for         capital-gain with marital-status held fixed value
+2023-03-05 10:50:34,906 marital-status: Never-married
+2023-03-05 10:50:34,906 capital-gain mean: 376.5883
+2023-03-05 10:50:34,906 capital-gain stddev: 3810.4232
+
+2023-03-05 10:50:34,908 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,908 capital-gain mean: 1764.8595
+2023-03-05 10:50:34,908 capital-gain stddev: 9723.4437
+
+2023-03-05 10:50:34,910 marital-status: Divorced
+2023-03-05 10:50:34,910 capital-gain mean: 728.4148
+2023-03-05 10:50:34,910 capital-gain stddev: 5571.5387
+
+2023-03-05 10:50:34,911 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,911 capital-gain mean: 653.9833
+2023-03-05 10:50:34,911 capital-gain stddev: 5534.4870
+
+2023-03-05 10:50:34,912 marital-status: Separated
+2023-03-05 10:50:34,912 capital-gain mean: 535.5688
+2023-03-05 10:50:34,912 capital-gain stddev: 4894.3595
+
+2023-03-05 10:50:34,913 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,913 capital-gain mean: 432.6522
+2023-03-05 10:50:34,913 capital-gain stddev: 1595.3610
+
+2023-03-05 10:50:34,914 marital-status: Widowed
+2023-03-05 10:50:34,914 capital-gain mean: 571.0715
+2023-03-05 10:50:34,914 capital-gain stddev: 4046.1021
+
+2023-03-05 10:50:34,914 -------------------------------------------
+2023-03-05 10:50:34,914 Calculate slice performance for         capital-loss with marital-status held fixed value
+2023-03-05 10:50:34,917 marital-status: Never-married
+2023-03-05 10:50:34,917 capital-loss mean: 52.3455
+2023-03-05 10:50:34,917 capital-loss stddev: 307.3995
+
+2023-03-05 10:50:34,918 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,919 capital-loss mean: 122.4391
+2023-03-05 10:50:34,919 capital-loss stddev: 472.2051
+
+2023-03-05 10:50:34,920 marital-status: Divorced
+2023-03-05 10:50:34,920 capital-loss mean: 64.6007
+2023-03-05 10:50:34,920 capital-loss stddev: 349.6714
+
+2023-03-05 10:50:34,921 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,921 capital-loss mean: 57.7799
+2023-03-05 10:50:34,921 capital-loss stddev: 317.5149
+
+2023-03-05 10:50:34,922 marital-status: Separated
+2023-03-05 10:50:34,922 capital-loss mean: 58.1102
+2023-03-05 10:50:34,922 capital-loss stddev: 364.0308
+
+2023-03-05 10:50:34,923 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,923 capital-loss mean: 0.0000
+2023-03-05 10:50:34,923 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:34,924 marital-status: Widowed
+2023-03-05 10:50:34,924 capital-loss mean: 79.6667
+2023-03-05 10:50:34,924 capital-loss stddev: 428.7385
+
+2023-03-05 10:50:34,924 -------------------------------------------
+2023-03-05 10:50:34,924 Calculate slice performance for         hours-per-week with marital-status held fixed value
+2023-03-05 10:50:34,927 marital-status: Never-married
+2023-03-05 10:50:34,927 hours-per-week mean: 36.9400
+2023-03-05 10:50:34,927 hours-per-week stddev: 12.4325
+
+2023-03-05 10:50:34,929 marital-status: Married-civ-spouse
+2023-03-05 10:50:34,929 hours-per-week mean: 43.2849
+2023-03-05 10:50:34,929 hours-per-week stddev: 11.9050
+
+2023-03-05 10:50:34,930 marital-status: Divorced
+2023-03-05 10:50:34,930 hours-per-week mean: 41.2467
+2023-03-05 10:50:34,930 hours-per-week stddev: 10.6766
+
+2023-03-05 10:50:34,931 marital-status: Married-spouse-absent
+2023-03-05 10:50:34,931 hours-per-week mean: 39.6699
+2023-03-05 10:50:34,932 hours-per-week stddev: 11.7674
+
+2023-03-05 10:50:34,933 marital-status: Separated
+2023-03-05 10:50:34,933 hours-per-week mean: 39.3015
+2023-03-05 10:50:34,933 hours-per-week stddev: 10.3775
+
+2023-03-05 10:50:34,934 marital-status: Married-AF-spouse
+2023-03-05 10:50:34,934 hours-per-week mean: 41.1304
+2023-03-05 10:50:34,934 hours-per-week stddev: 19.4406
+
+2023-03-05 10:50:34,935 marital-status: Widowed
+2023-03-05 10:50:34,935 hours-per-week mean: 32.9799
+2023-03-05 10:50:34,935 hours-per-week stddev: 14.0587
+
+2023-03-05 10:50:34,935 -------------------------------------------
+2023-03-05 10:50:34,935 Calculate slice performance for         age with occupation held fixed value
+2023-03-05 10:50:34,937 occupation: Adm-clerical
+2023-03-05 10:50:34,937 age mean: 36.9645
+2023-03-05 10:50:34,937 age stddev: 13.3630
+
+2023-03-05 10:50:34,938 occupation: Exec-managerial
+2023-03-05 10:50:34,938 age mean: 42.1692
+2023-03-05 10:50:34,938 age stddev: 11.9745
+
+2023-03-05 10:50:34,939 occupation: Handlers-cleaners
+2023-03-05 10:50:34,939 age mean: 32.1657
+2023-03-05 10:50:34,939 age stddev: 12.3726
+
+2023-03-05 10:50:34,941 occupation: Prof-specialty
+2023-03-05 10:50:34,941 age mean: 40.5176
+2023-03-05 10:50:34,941 age stddev: 12.0167
+
+2023-03-05 10:50:34,942 occupation: Other-service
+2023-03-05 10:50:34,942 age mean: 34.9496
+2023-03-05 10:50:34,942 age stddev: 14.5215
+
+2023-03-05 10:50:34,943 occupation: Sales
+2023-03-05 10:50:34,943 age mean: 37.3540
+2023-03-05 10:50:34,943 age stddev: 14.1864
+
+2023-03-05 10:50:34,944 occupation: Craft-repair
+2023-03-05 10:50:34,944 age mean: 39.0315
+2023-03-05 10:50:34,944 age stddev: 11.6064
+
+2023-03-05 10:50:34,945 occupation: Transport-moving
+2023-03-05 10:50:34,946 age mean: 40.1979
+2023-03-05 10:50:34,946 age stddev: 12.4508
+
+2023-03-05 10:50:34,947 occupation: Farming-fishing
+2023-03-05 10:50:34,947 age mean: 41.2113
+2023-03-05 10:50:34,947 age stddev: 15.0703
+
+2023-03-05 10:50:34,948 occupation: Machine-op-inspct
+2023-03-05 10:50:34,948 age mean: 37.7153
+2023-03-05 10:50:34,948 age stddev: 12.0683
+
+2023-03-05 10:50:34,949 occupation: Tech-support
+2023-03-05 10:50:34,949 age mean: 37.0226
+2023-03-05 10:50:34,949 age stddev: 11.3166
+
+2023-03-05 10:50:34,950 occupation: ?
+2023-03-05 10:50:34,950 age mean: 40.8828
+2023-03-05 10:50:34,950 age stddev: 20.3364
+
+2023-03-05 10:50:34,951 occupation: Protective-serv
+2023-03-05 10:50:34,951 age mean: 38.9538
+2023-03-05 10:50:34,951 age stddev: 12.8221
+
+2023-03-05 10:50:34,952 occupation: Armed-Forces
+2023-03-05 10:50:34,952 age mean: 30.2222
+2023-03-05 10:50:34,952 age stddev: 8.0898
+
+2023-03-05 10:50:34,953 occupation: Priv-house-serv
+2023-03-05 10:50:34,953 age mean: 41.7248
+2023-03-05 10:50:34,953 age stddev: 18.6337
+
+2023-03-05 10:50:34,953 -------------------------------------------
+2023-03-05 10:50:34,953 Calculate slice performance for         fnlgt with occupation held fixed value
+2023-03-05 10:50:34,956 occupation: Adm-clerical
+2023-03-05 10:50:34,956 fnlgt mean: 192043.3963
+2023-03-05 10:50:34,956 fnlgt stddev: 103163.8910
+
+2023-03-05 10:50:34,957 occupation: Exec-managerial
+2023-03-05 10:50:34,957 fnlgt mean: 184414.0125
+2023-03-05 10:50:34,957 fnlgt stddev: 103314.9575
+
+2023-03-05 10:50:34,958 occupation: Handlers-cleaners
+2023-03-05 10:50:34,958 fnlgt mean: 204391.0066
+2023-03-05 10:50:34,958 fnlgt stddev: 111934.1030
+
+2023-03-05 10:50:34,959 occupation: Prof-specialty
+2023-03-05 10:50:34,959 fnlgt mean: 185296.6133
+2023-03-05 10:50:34,959 fnlgt stddev: 100135.4536
+
+2023-03-05 10:50:34,961 occupation: Other-service
+2023-03-05 10:50:34,961 fnlgt mean: 188608.4522
+2023-03-05 10:50:34,961 fnlgt stddev: 109452.7984
+
+2023-03-05 10:50:34,962 occupation: Sales
+2023-03-05 10:50:34,962 fnlgt mean: 190885.8921
+2023-03-05 10:50:34,962 fnlgt stddev: 103779.8705
+
+2023-03-05 10:50:34,963 occupation: Craft-repair
+2023-03-05 10:50:34,963 fnlgt mean: 192132.5997
+2023-03-05 10:50:34,963 fnlgt stddev: 107434.0879
+
+2023-03-05 10:50:34,965 occupation: Transport-moving
+2023-03-05 10:50:34,965 fnlgt mean: 190366.3550
+2023-03-05 10:50:34,965 fnlgt stddev: 109240.2965
+
+2023-03-05 10:50:34,966 occupation: Farming-fishing
+2023-03-05 10:50:34,966 fnlgt mean: 170190.1761
+2023-03-05 10:50:34,966 fnlgt stddev: 116925.9010
+
+2023-03-05 10:50:34,967 occupation: Machine-op-inspct
+2023-03-05 10:50:34,967 fnlgt mean: 195040.8776
+2023-03-05 10:50:34,967 fnlgt stddev: 98159.9265
+
+2023-03-05 10:50:34,968 occupation: Tech-support
+2023-03-05 10:50:34,968 fnlgt mean: 192098.3017
+2023-03-05 10:50:34,968 fnlgt stddev: 113987.2809
+
+2023-03-05 10:50:34,969 occupation: ?
+2023-03-05 10:50:34,969 fnlgt mean: 188658.6674
+2023-03-05 10:50:34,969 fnlgt stddev: 107089.0776
+
+2023-03-05 10:50:34,970 occupation: Protective-serv
+2023-03-05 10:50:34,970 fnlgt mean: 202039.9538
+2023-03-05 10:50:34,970 fnlgt stddev: 101910.2932
+
+2023-03-05 10:50:34,971 occupation: Armed-Forces
+2023-03-05 10:50:34,971 fnlgt mean: 215425.8889
+2023-03-05 10:50:34,971 fnlgt stddev: 83315.8910
+
+2023-03-05 10:50:34,972 occupation: Priv-house-serv
+2023-03-05 10:50:34,972 fnlgt mean: 201107.5235
+2023-03-05 10:50:34,972 fnlgt stddev: 102595.3958
+
+2023-03-05 10:50:34,972 -------------------------------------------
+2023-03-05 10:50:34,973 Calculate slice performance for         education-num with occupation held fixed value
+2023-03-05 10:50:34,975 occupation: Adm-clerical
+2023-03-05 10:50:34,975 education-num mean: 10.1135
+2023-03-05 10:50:34,975 education-num stddev: 1.6980
+
+2023-03-05 10:50:34,976 occupation: Exec-managerial
+2023-03-05 10:50:34,976 education-num mean: 11.4491
+2023-03-05 10:50:34,976 education-num stddev: 2.1432
+
+2023-03-05 10:50:34,977 occupation: Handlers-cleaners
+2023-03-05 10:50:34,977 education-num mean: 8.5102
+2023-03-05 10:50:34,977 education-num stddev: 2.2034
+
+2023-03-05 10:50:34,978 occupation: Prof-specialty
+2023-03-05 10:50:34,978 education-num mean: 12.9051
+2023-03-05 10:50:34,978 education-num stddev: 2.0254
+
+2023-03-05 10:50:34,980 occupation: Other-service
+2023-03-05 10:50:34,980 education-num mean: 8.7797
+2023-03-05 10:50:34,980 education-num stddev: 2.2997
+
+2023-03-05 10:50:34,981 occupation: Sales
+2023-03-05 10:50:34,981 education-num mean: 10.2997
+2023-03-05 10:50:34,981 education-num stddev: 2.1780
+
+2023-03-05 10:50:34,982 occupation: Craft-repair
+2023-03-05 10:50:34,982 education-num mean: 9.1108
+2023-03-05 10:50:34,982 education-num stddev: 2.0387
+
+2023-03-05 10:50:34,983 occupation: Transport-moving
+2023-03-05 10:50:34,983 education-num mean: 8.7671
+2023-03-05 10:50:34,983 education-num stddev: 2.0368
+
+2023-03-05 10:50:34,984 occupation: Farming-fishing
+2023-03-05 10:50:34,984 education-num mean: 8.6087
+2023-03-05 10:50:34,984 education-num stddev: 2.7561
+
+2023-03-05 10:50:34,986 occupation: Machine-op-inspct
+2023-03-05 10:50:34,986 education-num mean: 8.4875
+2023-03-05 10:50:34,986 education-num stddev: 2.2853
+
+2023-03-05 10:50:34,987 occupation: Tech-support
+2023-03-05 10:50:34,987 education-num mean: 10.9925
+2023-03-05 10:50:34,987 education-num stddev: 1.7992
+
+2023-03-05 10:50:34,988 occupation: ?
+2023-03-05 10:50:34,988 education-num mean: 9.2534
+2023-03-05 10:50:34,988 education-num stddev: 2.6028
+
+2023-03-05 10:50:34,989 occupation: Protective-serv
+2023-03-05 10:50:34,989 education-num mean: 10.1849
+2023-03-05 10:50:34,989 education-num stddev: 1.8683
+
+2023-03-05 10:50:34,990 occupation: Armed-Forces
+2023-03-05 10:50:34,990 education-num mean: 10.1111
+2023-03-05 10:50:34,990 education-num stddev: 2.0276
+
+2023-03-05 10:50:34,991 occupation: Priv-house-serv
+2023-03-05 10:50:34,991 education-num mean: 7.3624
+2023-03-05 10:50:34,991 education-num stddev: 3.1110
+
+2023-03-05 10:50:34,991 -------------------------------------------
+2023-03-05 10:50:34,991 Calculate slice performance for         capital-gain with occupation held fixed value
+2023-03-05 10:50:34,993 occupation: Adm-clerical
+2023-03-05 10:50:34,993 capital-gain mean: 495.9549
+2023-03-05 10:50:34,993 capital-gain stddev: 4304.6784
+
+2023-03-05 10:50:34,995 occupation: Exec-managerial
+2023-03-05 10:50:34,995 capital-gain mean: 2262.7730
+2023-03-05 10:50:34,995 capital-gain stddev: 10695.2071
+
+2023-03-05 10:50:34,996 occupation: Handlers-cleaners
+2023-03-05 10:50:34,996 capital-gain mean: 257.5730
+2023-03-05 10:50:34,996 capital-gain stddev: 2876.6744
+
+2023-03-05 10:50:34,997 occupation: Prof-specialty
+2023-03-05 10:50:34,997 capital-gain mean: 2726.6995
+2023-03-05 10:50:34,997 capital-gain stddev: 12984.9176
+
+2023-03-05 10:50:34,998 occupation: Other-service
+2023-03-05 10:50:34,998 capital-gain mean: 191.3017
+2023-03-05 10:50:34,998 capital-gain stddev: 2687.4148
+
+2023-03-05 10:50:34,999 occupation: Sales
+2023-03-05 10:50:34,999 capital-gain mean: 1319.8293
+2023-03-05 10:50:34,999 capital-gain stddev: 8613.1100
+
+2023-03-05 10:50:35,001 occupation: Craft-repair
+2023-03-05 10:50:35,001 capital-gain mean: 649.5128
+2023-03-05 10:50:35,001 capital-gain stddev: 4820.1567
+
+2023-03-05 10:50:35,002 occupation: Transport-moving
+2023-03-05 10:50:35,002 capital-gain mean: 490.3237
+2023-03-05 10:50:35,002 capital-gain stddev: 3131.0351
+
+2023-03-05 10:50:35,003 occupation: Farming-fishing
+2023-03-05 10:50:35,003 capital-gain mean: 589.7264
+2023-03-05 10:50:35,003 capital-gain stddev: 3167.1225
+
+2023-03-05 10:50:35,004 occupation: Machine-op-inspct
+2023-03-05 10:50:35,004 capital-gain mean: 328.6893
+2023-03-05 10:50:35,004 capital-gain stddev: 2539.0420
+
+2023-03-05 10:50:35,005 occupation: Tech-support
+2023-03-05 10:50:35,005 capital-gain mean: 673.5528
+2023-03-05 10:50:35,005 capital-gain stddev: 4046.0944
+
+2023-03-05 10:50:35,007 occupation: ?
+2023-03-05 10:50:35,007 capital-gain mean: 604.4910
+2023-03-05 10:50:35,007 capital-gain stddev: 5137.6697
+
+2023-03-05 10:50:35,008 occupation: Protective-serv
+2023-03-05 10:50:35,009 capital-gain mean: 708.0986
+2023-03-05 10:50:35,009 capital-gain stddev: 4616.4251
+
+2023-03-05 10:50:35,010 occupation: Armed-Forces
+2023-03-05 10:50:35,010 capital-gain mean: 0.0000
+2023-03-05 10:50:35,010 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,011 occupation: Priv-house-serv
+2023-03-05 10:50:35,011 capital-gain mean: 279.8523
+2023-03-05 10:50:35,011 capital-gain stddev: 2134.6167
+
+2023-03-05 10:50:35,011 -------------------------------------------
+2023-03-05 10:50:35,011 Calculate slice performance for         capital-loss with occupation held fixed value
+2023-03-05 10:50:35,013 occupation: Adm-clerical
+2023-03-05 10:50:35,013 capital-loss mean: 60.7944
+2023-03-05 10:50:35,013 capital-loss stddev: 334.7715
+
+2023-03-05 10:50:35,014 occupation: Exec-managerial
+2023-03-05 10:50:35,015 capital-loss mean: 138.8384
+2023-03-05 10:50:35,015 capital-loss stddev: 507.4757
+
+2023-03-05 10:50:35,016 occupation: Handlers-cleaners
+2023-03-05 10:50:35,016 capital-loss mean: 45.6358
+2023-03-05 10:50:35,016 capital-loss stddev: 290.1956
+
+2023-03-05 10:50:35,017 occupation: Prof-specialty
+2023-03-05 10:50:35,017 capital-loss mean: 136.1394
+2023-03-05 10:50:35,017 capital-loss stddev: 503.4867
+
+2023-03-05 10:50:35,018 occupation: Other-service
+2023-03-05 10:50:35,019 capital-loss mean: 38.2507
+2023-03-05 10:50:35,019 capital-loss stddev: 266.8641
+
+2023-03-05 10:50:35,020 occupation: Sales
+2023-03-05 10:50:35,020 capital-loss mean: 98.3005
+2023-03-05 10:50:35,020 capital-loss stddev: 422.9962
+
+2023-03-05 10:50:35,022 occupation: Craft-repair
+2023-03-05 10:50:35,022 capital-loss mean: 88.4652
+2023-03-05 10:50:35,022 capital-loss stddev: 398.3991
+
+2023-03-05 10:50:35,023 occupation: Transport-moving
+2023-03-05 10:50:35,023 capital-loss mean: 81.4809
+2023-03-05 10:50:35,023 capital-loss stddev: 382.4647
+
+2023-03-05 10:50:35,025 occupation: Farming-fishing
+2023-03-05 10:50:35,025 capital-loss mean: 63.0755
+2023-03-05 10:50:35,025 capital-loss stddev: 350.4685
+
+2023-03-05 10:50:35,026 occupation: Machine-op-inspct
+2023-03-05 10:50:35,026 capital-loss mean: 61.7063
+2023-03-05 10:50:35,026 capital-loss stddev: 338.4113
+
+2023-03-05 10:50:35,027 occupation: Tech-support
+2023-03-05 10:50:35,027 capital-loss mean: 98.6659
+2023-03-05 10:50:35,027 capital-loss stddev: 415.8907
+
+2023-03-05 10:50:35,028 occupation: ?
+2023-03-05 10:50:35,028 capital-loss mean: 60.5296
+2023-03-05 10:50:35,029 capital-loss stddev: 354.0304
+
+2023-03-05 10:50:35,030 occupation: Protective-serv
+2023-03-05 10:50:35,030 capital-loss mean: 78.3344
+2023-03-05 10:50:35,030 capital-loss stddev: 378.7905
+
+2023-03-05 10:50:35,031 occupation: Armed-Forces
+2023-03-05 10:50:35,031 capital-loss mean: 209.6667
+2023-03-05 10:50:35,031 capital-loss stddev: 629.0000
+
+2023-03-05 10:50:35,032 occupation: Priv-house-serv
+2023-03-05 10:50:35,032 capital-loss mean: 21.4497
+2023-03-05 10:50:35,032 capital-loss stddev: 184.5134
+
+2023-03-05 10:50:35,032 -------------------------------------------
+2023-03-05 10:50:35,032 Calculate slice performance for         hours-per-week with occupation held fixed value
+2023-03-05 10:50:35,034 occupation: Adm-clerical
+2023-03-05 10:50:35,034 hours-per-week mean: 37.5584
+2023-03-05 10:50:35,034 hours-per-week stddev: 9.5898
+
+2023-03-05 10:50:35,036 occupation: Exec-managerial
+2023-03-05 10:50:35,036 hours-per-week mean: 44.9877
+2023-03-05 10:50:35,036 hours-per-week stddev: 11.1091
+
+2023-03-05 10:50:35,037 occupation: Handlers-cleaners
+2023-03-05 10:50:35,037 hours-per-week mean: 37.9474
+2023-03-05 10:50:35,037 hours-per-week stddev: 10.5805
+
+2023-03-05 10:50:35,038 occupation: Prof-specialty
+2023-03-05 10:50:35,038 hours-per-week mean: 42.3867
+2023-03-05 10:50:35,038 hours-per-week stddev: 12.5363
+
+2023-03-05 10:50:35,040 occupation: Other-service
+2023-03-05 10:50:35,040 hours-per-week mean: 34.7017
+2023-03-05 10:50:35,040 hours-per-week stddev: 12.7060
+
+2023-03-05 10:50:35,041 occupation: Sales
+2023-03-05 10:50:35,041 hours-per-week mean: 40.7811
+2023-03-05 10:50:35,041 hours-per-week stddev: 13.2364
+
+2023-03-05 10:50:35,042 occupation: Craft-repair
+2023-03-05 10:50:35,042 hours-per-week mean: 42.3042
+2023-03-05 10:50:35,042 hours-per-week stddev: 9.0520
+
+2023-03-05 10:50:35,044 occupation: Transport-moving
+2023-03-05 10:50:35,044 hours-per-week mean: 44.6562
+2023-03-05 10:50:35,044 hours-per-week stddev: 12.7214
+
+2023-03-05 10:50:35,045 occupation: Farming-fishing
+2023-03-05 10:50:35,045 hours-per-week mean: 46.9899
+2023-03-05 10:50:35,045 hours-per-week stddev: 17.3202
+
+2023-03-05 10:50:35,046 occupation: Machine-op-inspct
+2023-03-05 10:50:35,046 hours-per-week mean: 40.7557
+2023-03-05 10:50:35,046 hours-per-week stddev: 7.5927
+
+2023-03-05 10:50:35,047 occupation: Tech-support
+2023-03-05 10:50:35,047 hours-per-week mean: 39.4321
+2023-03-05 10:50:35,048 hours-per-week stddev: 10.5831
+
+2023-03-05 10:50:35,049 occupation: ?
+2023-03-05 10:50:35,049 hours-per-week mean: 31.9061
+2023-03-05 10:50:35,049 hours-per-week stddev: 14.9083
+
+2023-03-05 10:50:35,050 occupation: Protective-serv
+2023-03-05 10:50:35,050 hours-per-week mean: 42.8706
+2023-03-05 10:50:35,050 hours-per-week stddev: 12.3318
+
+2023-03-05 10:50:35,051 occupation: Armed-Forces
+2023-03-05 10:50:35,051 hours-per-week mean: 40.6667
+2023-03-05 10:50:35,051 hours-per-week stddev: 14.0712
+
+2023-03-05 10:50:35,052 occupation: Priv-house-serv
+2023-03-05 10:50:35,052 hours-per-week mean: 32.8859
+2023-03-05 10:50:35,052 hours-per-week stddev: 16.1845
+
+2023-03-05 10:50:35,052 -------------------------------------------
+2023-03-05 10:50:35,052 Calculate slice performance for         age with relationship held fixed value
+2023-03-05 10:50:35,055 relationship: Not-in-family
+2023-03-05 10:50:35,055 age mean: 38.3461
+2023-03-05 10:50:35,055 age stddev: 13.8654
+
+2023-03-05 10:50:35,057 relationship: Husband
+2023-03-05 10:50:35,057 age mean: 43.8186
+2023-03-05 10:50:35,057 age stddev: 12.0243
+
+2023-03-05 10:50:35,058 relationship: Wife
+2023-03-05 10:50:35,058 age mean: 39.8463
+2023-03-05 10:50:35,058 age stddev: 11.2277
+
+2023-03-05 10:50:35,060 relationship: Own-child
+2023-03-05 10:50:35,060 age mean: 24.8279
+2023-03-05 10:50:35,060 age stddev: 8.1158
+
+2023-03-05 10:50:35,061 relationship: Unmarried
+2023-03-05 10:50:35,061 age mean: 40.2940
+2023-03-05 10:50:35,061 age stddev: 11.6059
+
+2023-03-05 10:50:35,062 relationship: Other-relative
+2023-03-05 10:50:35,062 age mean: 33.1641
+2023-03-05 10:50:35,062 age stddev: 14.1662
+
+2023-03-05 10:50:35,062 -------------------------------------------
+2023-03-05 10:50:35,062 Calculate slice performance for         fnlgt with relationship held fixed value
+2023-03-05 10:50:35,065 relationship: Not-in-family
+2023-03-05 10:50:35,065 fnlgt mean: 191131.7953
+2023-03-05 10:50:35,065 fnlgt stddev: 108198.1480
+
+2023-03-05 10:50:35,067 relationship: Husband
+2023-03-05 10:50:35,067 fnlgt mean: 187074.8625
+2023-03-05 10:50:35,067 fnlgt stddev: 103174.8589
+
+2023-03-05 10:50:35,068 relationship: Wife
+2023-03-05 10:50:35,068 fnlgt mean: 181849.5077
+2023-03-05 10:50:35,068 fnlgt stddev: 101836.5621
+
+2023-03-05 10:50:35,070 relationship: Own-child
+2023-03-05 10:50:35,070 fnlgt mean: 193175.4088
+2023-03-05 10:50:35,070 fnlgt stddev: 104782.8035
+
+2023-03-05 10:50:35,071 relationship: Unmarried
+2023-03-05 10:50:35,071 fnlgt mean: 191128.4057
+2023-03-05 10:50:35,071 fnlgt stddev: 110370.7112
+
+2023-03-05 10:50:35,072 relationship: Other-relative
+2023-03-05 10:50:35,072 fnlgt mean: 205059.8216
+2023-03-05 10:50:35,072 fnlgt stddev: 104723.1375
+
+2023-03-05 10:50:35,072 -------------------------------------------
+2023-03-05 10:50:35,072 Calculate slice performance for         education-num with relationship held fixed value
+2023-03-05 10:50:35,075 relationship: Not-in-family
+2023-03-05 10:50:35,075 education-num mean: 10.3156
+2023-03-05 10:50:35,075 education-num stddev: 2.5706
+
+2023-03-05 10:50:35,077 relationship: Husband
+2023-03-05 10:50:35,077 education-num mean: 10.3265
+2023-03-05 10:50:35,077 education-num stddev: 2.7311
+
+2023-03-05 10:50:35,078 relationship: Wife
+2023-03-05 10:50:35,078 education-num mean: 10.4630
+2023-03-05 10:50:35,078 education-num stddev: 2.4870
+
+2023-03-05 10:50:35,080 relationship: Own-child
+2023-03-05 10:50:35,080 education-num mean: 9.4862
+2023-03-05 10:50:35,080 education-num stddev: 2.0188
+
+2023-03-05 10:50:35,081 relationship: Unmarried
+2023-03-05 10:50:35,081 education-num mean: 9.6422
+2023-03-05 10:50:35,081 education-num stddev: 2.3779
+
+2023-03-05 10:50:35,083 relationship: Other-relative
+2023-03-05 10:50:35,083 education-num mean: 8.7870
+2023-03-05 10:50:35,083 education-num stddev: 2.6412
+
+2023-03-05 10:50:35,083 -------------------------------------------
+2023-03-05 10:50:35,083 Calculate slice performance for         capital-gain with relationship held fixed value
+2023-03-05 10:50:35,085 relationship: Not-in-family
+2023-03-05 10:50:35,085 capital-gain mean: 743.3273
+2023-03-05 10:50:35,085 capital-gain stddev: 5606.6888
+
+2023-03-05 10:50:35,087 relationship: Husband
+2023-03-05 10:50:35,087 capital-gain mean: 1795.0622
+2023-03-05 10:50:35,087 capital-gain stddev: 9893.1877
+
+2023-03-05 10:50:35,089 relationship: Wife
+2023-03-05 10:50:35,089 capital-gain mean: 1659.7915
+2023-03-05 10:50:35,089 capital-gain stddev: 8825.7040
+
+2023-03-05 10:50:35,090 relationship: Own-child
+2023-03-05 10:50:35,090 capital-gain mean: 155.6555
+2023-03-05 10:50:35,090 capital-gain stddev: 2308.8756
+
+2023-03-05 10:50:35,092 relationship: Unmarried
+2023-03-05 10:50:35,092 capital-gain mean: 455.0311
+2023-03-05 10:50:35,092 capital-gain stddev: 4003.9028
+
+2023-03-05 10:50:35,093 relationship: Other-relative
+2023-03-05 10:50:35,093 capital-gain mean: 279.5953
+2023-03-05 10:50:35,093 capital-gain stddev: 2232.3367
+
+2023-03-05 10:50:35,093 -------------------------------------------
+2023-03-05 10:50:35,093 Calculate slice performance for         capital-loss with relationship held fixed value
+2023-03-05 10:50:35,095 relationship: Not-in-family
+2023-03-05 10:50:35,095 capital-loss mean: 75.3907
+2023-03-05 10:50:35,095 capital-loss stddev: 379.0029
+
+2023-03-05 10:50:35,097 relationship: Husband
+2023-03-05 10:50:35,097 capital-loss mean: 124.1609
+2023-03-05 10:50:35,097 capital-loss stddev: 475.2564
+
+2023-03-05 10:50:35,099 relationship: Wife
+2023-03-05 10:50:35,099 capital-loss mean: 118.0064
+2023-03-05 10:50:35,099 capital-loss stddev: 462.9676
+
+2023-03-05 10:50:35,100 relationship: Own-child
+2023-03-05 10:50:35,100 capital-loss mean: 39.5118
+2023-03-05 10:50:35,100 capital-loss stddev: 262.2042
+
+2023-03-05 10:50:35,102 relationship: Unmarried
+2023-03-05 10:50:35,102 capital-loss mean: 41.4649
+2023-03-05 10:50:35,102 capital-loss stddev: 289.6804
+
+2023-03-05 10:50:35,103 relationship: Other-relative
+2023-03-05 10:50:35,103 capital-loss mean: 51.3323
+2023-03-05 10:50:35,103 capital-loss stddev: 320.2984
+
+2023-03-05 10:50:35,103 -------------------------------------------
+2023-03-05 10:50:35,103 Calculate slice performance for         hours-per-week with relationship held fixed value
+2023-03-05 10:50:35,105 relationship: Not-in-family
+2023-03-05 10:50:35,105 hours-per-week mean: 40.5957
+2023-03-05 10:50:35,105 hours-per-week stddev: 11.7612
+
+2023-03-05 10:50:35,107 relationship: Husband
+2023-03-05 10:50:35,107 hours-per-week mean: 44.1201
+2023-03-05 10:50:35,107 hours-per-week stddev: 11.6702
+
+2023-03-05 10:50:35,109 relationship: Wife
+2023-03-05 10:50:35,109 hours-per-week mean: 36.8616
+2023-03-05 10:50:35,109 hours-per-week stddev: 11.8267
+
+2023-03-05 10:50:35,110 relationship: Own-child
+2023-03-05 10:50:35,110 hours-per-week mean: 33.2693
+2023-03-05 10:50:35,110 hours-per-week stddev: 12.7654
+
+2023-03-05 10:50:35,111 relationship: Unmarried
+2023-03-05 10:50:35,111 hours-per-week mean: 39.1030
+2023-03-05 10:50:35,111 hours-per-week stddev: 10.3714
+
+2023-03-05 10:50:35,113 relationship: Other-relative
+2023-03-05 10:50:35,113 hours-per-week mean: 37.0061
+2023-03-05 10:50:35,113 hours-per-week stddev: 11.3407
+
+2023-03-05 10:50:35,113 -------------------------------------------
+2023-03-05 10:50:35,113 Calculate slice performance for         age with race held fixed value
+2023-03-05 10:50:35,116 race: White
+2023-03-05 10:50:35,116 age mean: 38.7699
+2023-03-05 10:50:35,116 age stddev: 13.7823
+
+2023-03-05 10:50:35,117 race: Black
+2023-03-05 10:50:35,117 age mean: 37.7679
+2023-03-05 10:50:35,118 age stddev: 12.7593
+
+2023-03-05 10:50:35,119 race: Asian-Pac-Islander
+2023-03-05 10:50:35,119 age mean: 37.7469
+2023-03-05 10:50:35,119 age stddev: 12.8251
+
+2023-03-05 10:50:35,120 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,120 age mean: 37.1736
+2023-03-05 10:50:35,120 age stddev: 12.4471
+
+2023-03-05 10:50:35,121 race: Other
+2023-03-05 10:50:35,121 age mean: 33.4576
+2023-03-05 10:50:35,121 age stddev: 11.5389
+
+2023-03-05 10:50:35,121 -------------------------------------------
+2023-03-05 10:50:35,121 Calculate slice performance for         fnlgt with race held fixed value
+2023-03-05 10:50:35,124 race: White
+2023-03-05 10:50:35,124 fnlgt mean: 187298.0643
+2023-03-05 10:50:35,124 fnlgt stddev: 103124.9442
+
+2023-03-05 10:50:35,125 race: Black
+2023-03-05 10:50:35,125 fnlgt mean: 228013.1242
+2023-03-05 10:50:35,125 fnlgt stddev: 123600.6774
+
+2023-03-05 10:50:35,127 race: Asian-Pac-Islander
+2023-03-05 10:50:35,127 fnlgt mean: 159940.6092
+2023-03-05 10:50:35,127 fnlgt stddev: 85122.3075
+
+2023-03-05 10:50:35,128 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,128 fnlgt mean: 120831.1479
+2023-03-05 10:50:35,128 fnlgt stddev: 88338.6363
+
+2023-03-05 10:50:35,129 race: Other
+2023-03-05 10:50:35,129 fnlgt mean: 197124.1919
+2023-03-05 10:50:35,129 fnlgt stddev: 88856.7754
+
+2023-03-05 10:50:35,129 -------------------------------------------
+2023-03-05 10:50:35,129 Calculate slice performance for         education-num with race held fixed value
+2023-03-05 10:50:35,132 race: White
+2023-03-05 10:50:35,132 education-num mean: 10.1352
+2023-03-05 10:50:35,132 education-num stddev: 2.5703
+
+2023-03-05 10:50:35,133 race: Black
+2023-03-05 10:50:35,133 education-num mean: 9.4862
+2023-03-05 10:50:35,133 education-num stddev: 2.2979
+
+2023-03-05 10:50:35,135 race: Asian-Pac-Islander
+2023-03-05 10:50:35,135 education-num mean: 10.9605
+2023-03-05 10:50:35,135 education-num stddev: 2.8116
+
+2023-03-05 10:50:35,136 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,136 education-num mean: 9.3119
+2023-03-05 10:50:35,136 education-num stddev: 2.3104
+
+2023-03-05 10:50:35,137 race: Other
+2023-03-05 10:50:35,137 education-num mean: 8.8413
+2023-03-05 10:50:35,137 education-num stddev: 3.2262
+
+2023-03-05 10:50:35,137 -------------------------------------------
+2023-03-05 10:50:35,137 Calculate slice performance for         capital-gain with race held fixed value
+2023-03-05 10:50:35,139 race: White
+2023-03-05 10:50:35,139 capital-gain mean: 1121.6604
+2023-03-05 10:50:35,139 capital-gain stddev: 7504.5333
+
+2023-03-05 10:50:35,141 race: Black
+2023-03-05 10:50:35,141 capital-gain mean: 609.9405
+2023-03-05 10:50:35,141 capital-gain stddev: 5139.6534
+
+2023-03-05 10:50:35,142 race: Asian-Pac-Islander
+2023-03-05 10:50:35,142 capital-gain mean: 1478.3580
+2023-03-05 10:50:35,142 capital-gain stddev: 9986.1569
+
+2023-03-05 10:50:35,143 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,143 capital-gain mean: 625.2669
+2023-03-05 10:50:35,143 capital-gain stddev: 2753.2390
+
+2023-03-05 10:50:35,145 race: Other
+2023-03-05 10:50:35,145 capital-gain mean: 934.6605
+2023-03-05 10:50:35,145 capital-gain stddev: 8625.1290
+
+2023-03-05 10:50:35,145 -------------------------------------------
+2023-03-05 10:50:35,145 Calculate slice performance for         capital-loss with race held fixed value
+2023-03-05 10:50:35,147 race: White
+2023-03-05 10:50:35,147 capital-loss mean: 90.8062
+2023-03-05 10:50:35,147 capital-loss stddev: 410.8333
+
+2023-03-05 10:50:35,149 race: Black
+2023-03-05 10:50:35,149 capital-loss mean: 60.3851
+2023-03-05 10:50:35,149 capital-loss stddev: 337.3941
+
+2023-03-05 10:50:35,150 race: Asian-Pac-Islander
+2023-03-05 10:50:35,150 capital-loss mean: 97.2223
+2023-03-05 10:50:35,150 capital-loss stddev: 423.5569
+
+2023-03-05 10:50:35,151 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,151 capital-loss mean: 34.1768
+2023-03-05 10:50:35,151 capital-loss stddev: 245.5831
+
+2023-03-05 10:50:35,153 race: Other
+2023-03-05 10:50:35,153 capital-loss mean: 61.0701
+2023-03-05 10:50:35,153 capital-loss stddev: 322.4527
+
+2023-03-05 10:50:35,153 -------------------------------------------
+2023-03-05 10:50:35,153 Calculate slice performance for         hours-per-week with race held fixed value
+2023-03-05 10:50:35,155 race: White
+2023-03-05 10:50:35,155 hours-per-week mean: 40.6891
+2023-03-05 10:50:35,155 hours-per-week stddev: 12.5448
+
+2023-03-05 10:50:35,157 race: Black
+2023-03-05 10:50:35,157 hours-per-week mean: 38.4229
+2023-03-05 10:50:35,157 hours-per-week stddev: 10.3156
+
+2023-03-05 10:50:35,158 race: Asian-Pac-Islander
+2023-03-05 10:50:35,158 hours-per-week mean: 40.1270
+2023-03-05 10:50:35,158 hours-per-week stddev: 12.5568
+
+2023-03-05 10:50:35,159 race: Amer-Indian-Eskimo
+2023-03-05 10:50:35,159 hours-per-week mean: 40.0482
+2023-03-05 10:50:35,159 hours-per-week stddev: 11.6954
+
+2023-03-05 10:50:35,160 race: Other
+2023-03-05 10:50:35,160 hours-per-week mean: 39.4686
+2023-03-05 10:50:35,160 hours-per-week stddev: 11.1438
+
+2023-03-05 10:50:35,160 -------------------------------------------
+2023-03-05 10:50:35,160 Calculate slice performance for         age with sex held fixed value
+2023-03-05 10:50:35,163 sex: Male
+2023-03-05 10:50:35,163 age mean: 39.4335
+2023-03-05 10:50:35,163 age stddev: 13.3706
+
+2023-03-05 10:50:35,165 sex: Female
+2023-03-05 10:50:35,165 age mean: 36.8582
+2023-03-05 10:50:35,165 age stddev: 14.0137
+
+2023-03-05 10:50:35,165 -------------------------------------------
+2023-03-05 10:50:35,165 Calculate slice performance for         fnlgt with sex held fixed value
+2023-03-05 10:50:35,168 sex: Male
+2023-03-05 10:50:35,168 fnlgt mean: 191771.4490
+2023-03-05 10:50:35,168 fnlgt stddev: 106740.7027
+
+2023-03-05 10:50:35,170 sex: Female
+2023-03-05 10:50:35,170 fnlgt mean: 185746.3112
+2023-03-05 10:50:35,170 fnlgt stddev: 102986.0788
+
+2023-03-05 10:50:35,170 -------------------------------------------
+2023-03-05 10:50:35,170 Calculate slice performance for         education-num with sex held fixed value
+2023-03-05 10:50:35,173 sex: Male
+2023-03-05 10:50:35,173 education-num mean: 10.1029
+2023-03-05 10:50:35,173 education-num stddev: 2.6626
+
+2023-03-05 10:50:35,174 sex: Female
+2023-03-05 10:50:35,174 education-num mean: 10.0357
+2023-03-05 10:50:35,174 education-num stddev: 2.3800
+
+2023-03-05 10:50:35,175 -------------------------------------------
+2023-03-05 10:50:35,175 Calculate slice performance for         capital-gain with sex held fixed value
+2023-03-05 10:50:35,177 sex: Male
+2023-03-05 10:50:35,177 capital-gain mean: 1329.3701
+2023-03-05 10:50:35,177 capital-gain stddev: 8326.3121
+
+2023-03-05 10:50:35,179 sex: Female
+2023-03-05 10:50:35,179 capital-gain mean: 568.4105
+2023-03-05 10:50:35,179 capital-gain stddev: 4924.2629
+
+2023-03-05 10:50:35,179 -------------------------------------------
+2023-03-05 10:50:35,179 Calculate slice performance for         capital-loss with sex held fixed value
+2023-03-05 10:50:35,182 sex: Male
+2023-03-05 10:50:35,182 capital-loss mean: 100.2133
+2023-03-05 10:50:35,182 capital-loss stddev: 429.7631
+
+2023-03-05 10:50:35,184 sex: Female
+2023-03-05 10:50:35,184 capital-loss mean: 61.1876
+2023-03-05 10:50:35,184 capital-loss stddev: 340.9075
+
+2023-03-05 10:50:35,184 -------------------------------------------
+2023-03-05 10:50:35,184 Calculate slice performance for         hours-per-week with sex held fixed value
+2023-03-05 10:50:35,187 sex: Male
+2023-03-05 10:50:35,187 hours-per-week mean: 42.4281
+2023-03-05 10:50:35,187 hours-per-week stddev: 12.1198
+
+2023-03-05 10:50:35,188 sex: Female
+2023-03-05 10:50:35,188 hours-per-week mean: 36.4104
+2023-03-05 10:50:35,188 hours-per-week stddev: 11.8113
+
+2023-03-05 10:50:35,189 -------------------------------------------
+2023-03-05 10:50:35,189 Calculate slice performance for         age with native-country held fixed value
+2023-03-05 10:50:35,191 native-country: United-States
+2023-03-05 10:50:35,191 age mean: 38.6557
+2023-03-05 10:50:35,191 age stddev: 13.7224
+
+2023-03-05 10:50:35,193 native-country: Cuba
+2023-03-05 10:50:35,193 age mean: 45.7684
+2023-03-05 10:50:35,193 age stddev: 13.4872
+
+2023-03-05 10:50:35,194 native-country: Jamaica
+2023-03-05 10:50:35,194 age mean: 35.5926
+2023-03-05 10:50:35,194 age stddev: 11.6745
+
+2023-03-05 10:50:35,195 native-country: India
+2023-03-05 10:50:35,195 age mean: 38.0900
+2023-03-05 10:50:35,195 age stddev: 11.1953
+
+2023-03-05 10:50:35,196 native-country: ?
+2023-03-05 10:50:35,196 age mean: 38.7256
+2023-03-05 10:50:35,196 age stddev: 12.4048
+
+2023-03-05 10:50:35,197 native-country: Mexico
+2023-03-05 10:50:35,197 age mean: 33.2908
+2023-03-05 10:50:35,197 age stddev: 10.8910
+
+2023-03-05 10:50:35,198 native-country: South
+2023-03-05 10:50:35,198 age mean: 38.7500
+2023-03-05 10:50:35,198 age stddev: 14.7068
+
+2023-03-05 10:50:35,199 native-country: Puerto-Rico
+2023-03-05 10:50:35,199 age mean: 40.5088
+2023-03-05 10:50:35,199 age stddev: 13.0236
+
+2023-03-05 10:50:35,200 native-country: Honduras
+2023-03-05 10:50:35,200 age mean: 33.8462
+2023-03-05 10:50:35,200 age stddev: 11.6107
+
+2023-03-05 10:50:35,201 native-country: England
+2023-03-05 10:50:35,201 age mean: 41.1556
+2023-03-05 10:50:35,201 age stddev: 14.2789
+
+2023-03-05 10:50:35,202 native-country: Canada
+2023-03-05 10:50:35,202 age mean: 42.5455
+2023-03-05 10:50:35,202 age stddev: 15.0820
+
+2023-03-05 10:50:35,203 native-country: Germany
+2023-03-05 10:50:35,203 age mean: 39.2555
+2023-03-05 10:50:35,203 age stddev: 12.9621
+
+2023-03-05 10:50:35,204 native-country: Iran
+2023-03-05 10:50:35,204 age mean: 39.4186
+2023-03-05 10:50:35,204 age stddev: 10.1705
+
+2023-03-05 10:50:35,205 native-country: Philippines
+2023-03-05 10:50:35,205 age mean: 39.4444
+2023-03-05 10:50:35,205 age stddev: 12.9523
+
+2023-03-05 10:50:35,205 native-country: Italy
+2023-03-05 10:50:35,206 age mean: 46.4247
+2023-03-05 10:50:35,206 age stddev: 13.3676
+
+2023-03-05 10:50:35,206 native-country: Poland
+2023-03-05 10:50:35,206 age mean: 43.1167
+2023-03-05 10:50:35,206 age stddev: 15.4844
+
+2023-03-05 10:50:35,207 native-country: Columbia
+2023-03-05 10:50:35,207 age mean: 39.7119
+2023-03-05 10:50:35,207 age stddev: 13.5927
+
+2023-03-05 10:50:35,208 native-country: Cambodia
+2023-03-05 10:50:35,208 age mean: 37.7895
+2023-03-05 10:50:35,208 age stddev: 11.0734
+
+2023-03-05 10:50:35,209 native-country: Thailand
+2023-03-05 10:50:35,209 age mean: 34.9444
+2023-03-05 10:50:35,209 age stddev: 10.8707
+
+2023-03-05 10:50:35,210 native-country: Ecuador
+2023-03-05 10:50:35,210 age mean: 36.6429
+2023-03-05 10:50:35,210 age stddev: 14.6924
+
+2023-03-05 10:50:35,211 native-country: Laos
+2023-03-05 10:50:35,211 age mean: 34.7222
+2023-03-05 10:50:35,211 age stddev: 11.7012
+
+2023-03-05 10:50:35,212 native-country: Taiwan
+2023-03-05 10:50:35,212 age mean: 33.8235
+2023-03-05 10:50:35,212 age stddev: 9.4524
+
+2023-03-05 10:50:35,213 native-country: Haiti
+2023-03-05 10:50:35,213 age mean: 38.2727
+2023-03-05 10:50:35,213 age stddev: 12.2367
+
+2023-03-05 10:50:35,214 native-country: Portugal
+2023-03-05 10:50:35,214 age mean: 40.2973
+2023-03-05 10:50:35,214 age stddev: 14.3640
+
+2023-03-05 10:50:35,215 native-country: Dominican-Republic
+2023-03-05 10:50:35,215 age mean: 37.7286
+2023-03-05 10:50:35,215 age stddev: 13.0971
+
+2023-03-05 10:50:35,216 native-country: El-Salvador
+2023-03-05 10:50:35,216 age mean: 34.1321
+2023-03-05 10:50:35,216 age stddev: 12.1859
+
+2023-03-05 10:50:35,217 native-country: France
+2023-03-05 10:50:35,217 age mean: 38.9655
+2023-03-05 10:50:35,217 age stddev: 11.8818
+
+2023-03-05 10:50:35,218 native-country: Guatemala
+2023-03-05 10:50:35,218 age mean: 32.4219
+2023-03-05 10:50:35,218 age stddev: 11.4321
+
+2023-03-05 10:50:35,219 native-country: China
+2023-03-05 10:50:35,219 age mean: 42.5333
+2023-03-05 10:50:35,219 age stddev: 12.5260
+
+2023-03-05 10:50:35,220 native-country: Japan
+2023-03-05 10:50:35,220 age mean: 38.2419
+2023-03-05 10:50:35,220 age stddev: 9.1967
+
+2023-03-05 10:50:35,221 native-country: Yugoslavia
+2023-03-05 10:50:35,221 age mean: 38.8125
+2023-03-05 10:50:35,221 age stddev: 12.6976
+
+2023-03-05 10:50:35,222 native-country: Peru
+2023-03-05 10:50:35,222 age mean: 35.2581
+2023-03-05 10:50:35,222 age stddev: 13.1883
+
+2023-03-05 10:50:35,223 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,223 age mean: 38.7143
+2023-03-05 10:50:35,223 age stddev: 14.5413
+
+2023-03-05 10:50:35,224 native-country: Scotland
+2023-03-05 10:50:35,224 age mean: 40.4167
+2023-03-05 10:50:35,224 age stddev: 12.8095
+
+2023-03-05 10:50:35,225 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,225 age mean: 41.3158
+2023-03-05 10:50:35,225 age stddev: 10.8426
+
+2023-03-05 10:50:35,225 native-country: Greece
+2023-03-05 10:50:35,225 age mean: 46.2069
+2023-03-05 10:50:35,226 age stddev: 13.0559
+
+2023-03-05 10:50:35,226 native-country: Nicaragua
+2023-03-05 10:50:35,226 age mean: 33.6176
+2023-03-05 10:50:35,226 age stddev: 11.5444
+
+2023-03-05 10:50:35,227 native-country: Vietnam
+2023-03-05 10:50:35,227 age mean: 34.0597
+2023-03-05 10:50:35,227 age stddev: 13.4917
+
+2023-03-05 10:50:35,228 native-country: Hong
+2023-03-05 10:50:35,228 age mean: 33.6500
+2023-03-05 10:50:35,228 age stddev: 9.1091
+
+2023-03-05 10:50:35,229 native-country: Ireland
+2023-03-05 10:50:35,229 age mean: 36.4583
+2023-03-05 10:50:35,229 age stddev: 11.1588
+
+2023-03-05 10:50:35,230 native-country: Hungary
+2023-03-05 10:50:35,230 age mean: 49.3846
+2023-03-05 10:50:35,230 age stddev: 17.7320
+
+2023-03-05 10:50:35,231 native-country: Holand-Netherlands
+2023-03-05 10:50:35,231 age mean: 32.0000
+2023-03-05 10:50:35,231 age stddev: nan
+
+2023-03-05 10:50:35,231 -------------------------------------------
+2023-03-05 10:50:35,231 Calculate slice performance for         fnlgt with native-country held fixed value
+2023-03-05 10:50:35,234 native-country: United-States
+2023-03-05 10:50:35,234 fnlgt mean: 187069.0212
+2023-03-05 10:50:35,234 fnlgt stddev: 104877.9817
+
+2023-03-05 10:50:35,236 native-country: Cuba
+2023-03-05 10:50:35,236 fnlgt mean: 246291.3474
+2023-03-05 10:50:35,236 fnlgt stddev: 54236.1128
+
+2023-03-05 10:50:35,236 native-country: Jamaica
+2023-03-05 10:50:35,236 fnlgt mean: 212155.2346
+2023-03-05 10:50:35,236 fnlgt stddev: 70914.4957
+
+2023-03-05 10:50:35,237 native-country: India
+2023-03-05 10:50:35,237 fnlgt mean: 168539.0900
+2023-03-05 10:50:35,237 fnlgt stddev: 77905.0899
+
+2023-03-05 10:50:35,238 native-country: ?
+2023-03-05 10:50:35,238 fnlgt mean: 193300.8971
+2023-03-05 10:50:35,238 fnlgt stddev: 95443.5114
+
+2023-03-05 10:50:35,239 native-country: Mexico
+2023-03-05 10:50:35,239 fnlgt mean: 289724.7465
+2023-03-05 10:50:35,239 fnlgt stddev: 111250.7915
+
+2023-03-05 10:50:35,240 native-country: South
+2023-03-05 10:50:35,240 fnlgt mean: 163481.7875
+2023-03-05 10:50:35,240 fnlgt stddev: 76719.9822
+
+2023-03-05 10:50:35,241 native-country: Puerto-Rico
+2023-03-05 10:50:35,241 fnlgt mean: 202535.7281
+2023-03-05 10:50:35,241 fnlgt stddev: 76008.1886
+
+2023-03-05 10:50:35,242 native-country: Honduras
+2023-03-05 10:50:35,242 fnlgt mean: 255591.3077
+2023-03-05 10:50:35,242 fnlgt stddev: 98448.1971
+
+2023-03-05 10:50:35,243 native-country: England
+2023-03-05 10:50:35,243 fnlgt mean: 182375.1667
+2023-03-05 10:50:35,243 fnlgt stddev: 103173.4335
+
+2023-03-05 10:50:35,244 native-country: Canada
+2023-03-05 10:50:35,244 fnlgt mean: 179852.9339
+2023-03-05 10:50:35,244 fnlgt stddev: 101167.0985
+
+2023-03-05 10:50:35,245 native-country: Germany
+2023-03-05 10:50:35,245 fnlgt mean: 189325.3139
+2023-03-05 10:50:35,245 fnlgt stddev: 100809.0677
+
+2023-03-05 10:50:35,246 native-country: Iran
+2023-03-05 10:50:35,246 fnlgt mean: 182211.3953
+2023-03-05 10:50:35,246 fnlgt stddev: 79867.3834
+
+2023-03-05 10:50:35,247 native-country: Philippines
+2023-03-05 10:50:35,247 fnlgt mean: 166115.1162
+2023-03-05 10:50:35,247 fnlgt stddev: 93747.0489
+
+2023-03-05 10:50:35,248 native-country: Italy
+2023-03-05 10:50:35,248 fnlgt mean: 181685.3973
+2023-03-05 10:50:35,248 fnlgt stddev: 84166.5802
+
+2023-03-05 10:50:35,249 native-country: Poland
+2023-03-05 10:50:35,249 fnlgt mean: 183904.0167
+2023-03-05 10:50:35,249 fnlgt stddev: 69616.7287
+
+2023-03-05 10:50:35,250 native-country: Columbia
+2023-03-05 10:50:35,250 fnlgt mean: 225149.4068
+2023-03-05 10:50:35,250 fnlgt stddev: 150508.7222
+
+2023-03-05 10:50:35,251 native-country: Cambodia
+2023-03-05 10:50:35,251 fnlgt mean: 193080.3684
+2023-03-05 10:50:35,251 fnlgt stddev: 96167.1530
+
+2023-03-05 10:50:35,252 native-country: Thailand
+2023-03-05 10:50:35,252 fnlgt mean: 184166.6667
+2023-03-05 10:50:35,252 fnlgt stddev: 81981.1695
+
+2023-03-05 10:50:35,253 native-country: Ecuador
+2023-03-05 10:50:35,253 fnlgt mean: 185858.8214
+2023-03-05 10:50:35,253 fnlgt stddev: 43596.5912
+
+2023-03-05 10:50:35,254 native-country: Laos
+2023-03-05 10:50:35,254 fnlgt mean: 211108.0000
+2023-03-05 10:50:35,254 fnlgt stddev: 93907.3539
+
+2023-03-05 10:50:35,255 native-country: Taiwan
+2023-03-05 10:50:35,255 fnlgt mean: 186441.3922
+2023-03-05 10:50:35,255 fnlgt stddev: 84801.0099
+
+2023-03-05 10:50:35,256 native-country: Haiti
+2023-03-05 10:50:35,256 fnlgt mean: 209019.4318
+2023-03-05 10:50:35,256 fnlgt stddev: 66308.4505
+
+2023-03-05 10:50:35,257 native-country: Portugal
+2023-03-05 10:50:35,257 fnlgt mean: 148621.6757
+2023-03-05 10:50:35,258 fnlgt stddev: 91108.6836
+
+2023-03-05 10:50:35,258 native-country: Dominican-Republic
+2023-03-05 10:50:35,258 fnlgt mean: 192089.5571
+2023-03-05 10:50:35,258 fnlgt stddev: 62510.2634
+
+2023-03-05 10:50:35,259 native-country: El-Salvador
+2023-03-05 10:50:35,259 fnlgt mean: 254392.9717
+2023-03-05 10:50:35,260 fnlgt stddev: 145184.2197
+
+2023-03-05 10:50:35,260 native-country: France
+2023-03-05 10:50:35,260 fnlgt mean: 192050.8966
+2023-03-05 10:50:35,261 fnlgt stddev: 110581.7875
+
+2023-03-05 10:50:35,261 native-country: Guatemala
+2023-03-05 10:50:35,262 fnlgt mean: 265163.3438
+2023-03-05 10:50:35,262 fnlgt stddev: 134885.7340
+
+2023-03-05 10:50:35,262 native-country: China
+2023-03-05 10:50:35,263 fnlgt mean: 179047.9867
+2023-03-05 10:50:35,263 fnlgt stddev: 86867.5757
+
+2023-03-05 10:50:35,263 native-country: Japan
+2023-03-05 10:50:35,264 fnlgt mean: 185703.6290
+2023-03-05 10:50:35,264 fnlgt stddev: 118827.6393
+
+2023-03-05 10:50:35,264 native-country: Yugoslavia
+2023-03-05 10:50:35,264 fnlgt mean: 215963.9375
+2023-03-05 10:50:35,265 fnlgt stddev: 112478.5559
+
+2023-03-05 10:50:35,265 native-country: Peru
+2023-03-05 10:50:35,265 fnlgt mean: 274559.3548
+2023-03-05 10:50:35,265 fnlgt stddev: 124140.1228
+
+2023-03-05 10:50:35,266 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,266 fnlgt mean: 204487.7857
+2023-03-05 10:50:35,266 fnlgt stddev: 86043.1021
+
+2023-03-05 10:50:35,267 native-country: Scotland
+2023-03-05 10:50:35,267 fnlgt mean: 168946.0833
+2023-03-05 10:50:35,267 fnlgt stddev: 83657.0296
+
+2023-03-05 10:50:35,268 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,268 fnlgt mean: 212812.3158
+2023-03-05 10:50:35,268 fnlgt stddev: 139711.5284
+
+2023-03-05 10:50:35,269 native-country: Greece
+2023-03-05 10:50:35,269 fnlgt mean: 143466.2069
+2023-03-05 10:50:35,269 fnlgt stddev: 46609.4107
+
+2023-03-05 10:50:35,270 native-country: Nicaragua
+2023-03-05 10:50:35,270 fnlgt mean: 294574.1176
+2023-03-05 10:50:35,270 fnlgt stddev: 156049.8000
+
+2023-03-05 10:50:35,271 native-country: Vietnam
+2023-03-05 10:50:35,271 fnlgt mean: 163283.9254
+2023-03-05 10:50:35,271 fnlgt stddev: 73469.6825
+
+2023-03-05 10:50:35,272 native-country: Hong
+2023-03-05 10:50:35,272 fnlgt mean: 222352.7500
+2023-03-05 10:50:35,272 fnlgt stddev: 86232.3967
+
+2023-03-05 10:50:35,273 native-country: Ireland
+2023-03-05 10:50:35,273 fnlgt mean: 137997.5833
+2023-03-05 10:50:35,273 fnlgt stddev: 37842.6835
+
+2023-03-05 10:50:35,274 native-country: Hungary
+2023-03-05 10:50:35,274 fnlgt mean: 180488.4615
+2023-03-05 10:50:35,274 fnlgt stddev: 67833.6068
+
+2023-03-05 10:50:35,275 native-country: Holand-Netherlands
+2023-03-05 10:50:35,275 fnlgt mean: 27882.0000
+2023-03-05 10:50:35,275 fnlgt stddev: nan
+
+2023-03-05 10:50:35,275 -------------------------------------------
+2023-03-05 10:50:35,275 Calculate slice performance for         education-num with native-country held fixed value
+2023-03-05 10:50:35,278 native-country: United-States
+2023-03-05 10:50:35,278 education-num mean: 10.1695
+2023-03-05 10:50:35,278 education-num stddev: 2.3950
+
+2023-03-05 10:50:35,280 native-country: Cuba
+2023-03-05 10:50:35,280 education-num mean: 9.6000
+2023-03-05 10:50:35,280 education-num stddev: 3.4745
+
+2023-03-05 10:50:35,281 native-country: Jamaica
+2023-03-05 10:50:35,281 education-num mean: 9.8519
+2023-03-05 10:50:35,281 education-num stddev: 2.1512
+
+2023-03-05 10:50:35,282 native-country: India
+2023-03-05 10:50:35,282 education-num mean: 12.4300
+2023-03-05 10:50:35,282 education-num stddev: 2.8824
+
+2023-03-05 10:50:35,283 native-country: ?
+2023-03-05 10:50:35,283 education-num mean: 10.5986
+2023-03-05 10:50:35,283 education-num stddev: 3.1235
+
+2023-03-05 10:50:35,284 native-country: Mexico
+2023-03-05 10:50:35,284 education-num mean: 6.1353
+2023-03-05 10:50:35,284 education-num stddev: 3.4473
+
+2023-03-05 10:50:35,285 native-country: South
+2023-03-05 10:50:35,285 education-num mean: 10.9125
+2023-03-05 10:50:35,285 education-num stddev: 2.2569
+
+2023-03-05 10:50:35,286 native-country: Puerto-Rico
+2023-03-05 10:50:35,286 education-num mean: 8.2895
+2023-03-05 10:50:35,286 education-num stddev: 3.0095
+
+2023-03-05 10:50:35,287 native-country: Honduras
+2023-03-05 10:50:35,287 education-num mean: 8.6923
+2023-03-05 10:50:35,287 education-num stddev: 3.4973
+
+2023-03-05 10:50:35,288 native-country: England
+2023-03-05 10:50:35,288 education-num mean: 11.0111
+2023-03-05 10:50:35,288 education-num stddev: 2.6753
+
+2023-03-05 10:50:35,289 native-country: Canada
+2023-03-05 10:50:35,289 education-num mean: 10.6529
+2023-03-05 10:50:35,289 education-num stddev: 2.8187
+
+2023-03-05 10:50:35,290 native-country: Germany
+2023-03-05 10:50:35,290 education-num mean: 10.9854
+2023-03-05 10:50:35,290 education-num stddev: 2.3701
+
+2023-03-05 10:50:35,291 native-country: Iran
+2023-03-05 10:50:35,291 education-num mean: 12.3953
+2023-03-05 10:50:35,291 education-num stddev: 2.0947
+
+2023-03-05 10:50:35,292 native-country: Philippines
+2023-03-05 10:50:35,292 education-num mean: 10.8687
+2023-03-05 10:50:35,292 education-num stddev: 2.9225
+
+2023-03-05 10:50:35,293 native-country: Italy
+2023-03-05 10:50:35,293 education-num mean: 8.8493
+2023-03-05 10:50:35,293 education-num stddev: 3.9182
+
+2023-03-05 10:50:35,294 native-country: Poland
+2023-03-05 10:50:35,294 education-num mean: 10.1000
+2023-03-05 10:50:35,294 education-num stddev: 2.7537
+
+2023-03-05 10:50:35,295 native-country: Columbia
+2023-03-05 10:50:35,295 education-num mean: 9.3729
+2023-03-05 10:50:35,295 education-num stddev: 2.9178
+
+2023-03-05 10:50:35,296 native-country: Cambodia
+2023-03-05 10:50:35,296 education-num mean: 8.7895
+2023-03-05 10:50:35,296 education-num stddev: 3.2588
+
+2023-03-05 10:50:35,297 native-country: Thailand
+2023-03-05 10:50:35,297 education-num mean: 10.9444
+2023-03-05 10:50:35,297 education-num stddev: 2.2615
+
+2023-03-05 10:50:35,298 native-country: Ecuador
+2023-03-05 10:50:35,298 education-num mean: 9.4643
+2023-03-05 10:50:35,298 education-num stddev: 2.6595
+
+2023-03-05 10:50:35,299 native-country: Laos
+2023-03-05 10:50:35,299 education-num mean: 8.5556
+2023-03-05 10:50:35,299 education-num stddev: 3.6818
+
+2023-03-05 10:50:35,300 native-country: Taiwan
+2023-03-05 10:50:35,300 education-num mean: 13.2941
+2023-03-05 10:50:35,300 education-num stddev: 1.9318
+
+2023-03-05 10:50:35,301 native-country: Haiti
+2023-03-05 10:50:35,301 education-num mean: 8.9318
+2023-03-05 10:50:35,301 education-num stddev: 3.0530
+
+2023-03-05 10:50:35,302 native-country: Portugal
+2023-03-05 10:50:35,302 education-num mean: 6.7027
+2023-03-05 10:50:35,302 education-num stddev: 3.5891
+
+2023-03-05 10:50:35,303 native-country: Dominican-Republic
+2023-03-05 10:50:35,303 education-num mean: 7.1143
+2023-03-05 10:50:35,303 education-num stddev: 3.2595
+
+2023-03-05 10:50:35,304 native-country: El-Salvador
+2023-03-05 10:50:35,304 education-num mean: 6.8396
+2023-03-05 10:50:35,304 education-num stddev: 3.8226
+
+2023-03-05 10:50:35,305 native-country: France
+2023-03-05 10:50:35,305 education-num mean: 12.2414
+2023-03-05 10:50:35,305 education-num stddev: 2.3092
+
+2023-03-05 10:50:35,306 native-country: Guatemala
+2023-03-05 10:50:35,306 education-num mean: 6.0312
+2023-03-05 10:50:35,306 education-num stddev: 3.0808
+
+2023-03-05 10:50:35,307 native-country: China
+2023-03-05 10:50:35,307 education-num mean: 11.1200
+2023-03-05 10:50:35,307 education-num stddev: 3.7523
+
+2023-03-05 10:50:35,308 native-country: Japan
+2023-03-05 10:50:35,308 education-num mean: 11.4355
+2023-03-05 10:50:35,308 education-num stddev: 2.2370
+
+2023-03-05 10:50:35,308 native-country: Yugoslavia
+2023-03-05 10:50:35,308 education-num mean: 9.9375
+2023-03-05 10:50:35,308 education-num stddev: 2.8860
+
+2023-03-05 10:50:35,309 native-country: Peru
+2023-03-05 10:50:35,309 education-num mean: 9.3548
+2023-03-05 10:50:35,309 education-num stddev: 2.1840
+
+2023-03-05 10:50:35,310 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,310 education-num mean: 10.2857
+2023-03-05 10:50:35,310 education-num stddev: 2.1989
+
+2023-03-05 10:50:35,311 native-country: Scotland
+2023-03-05 10:50:35,311 education-num mean: 10.2500
+2023-03-05 10:50:35,311 education-num stddev: 2.2208
+
+2023-03-05 10:50:35,312 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,312 education-num mean: 8.2632
+2023-03-05 10:50:35,312 education-num stddev: 2.8056
+
+2023-03-05 10:50:35,313 native-country: Greece
+2023-03-05 10:50:35,313 education-num mean: 9.7241
+2023-03-05 10:50:35,313 education-num stddev: 2.9749
+
+2023-03-05 10:50:35,314 native-country: Nicaragua
+2023-03-05 10:50:35,314 education-num mean: 8.7059
+2023-03-05 10:50:35,314 education-num stddev: 2.9391
+
+2023-03-05 10:50:35,315 native-country: Vietnam
+2023-03-05 10:50:35,315 education-num mean: 9.6567
+2023-03-05 10:50:35,315 education-num stddev: 2.9313
+
+2023-03-05 10:50:35,316 native-country: Hong
+2023-03-05 10:50:35,316 education-num mean: 10.6000
+2023-03-05 10:50:35,316 education-num stddev: 4.0315
+
+2023-03-05 10:50:35,317 native-country: Ireland
+2023-03-05 10:50:35,317 education-num mean: 10.0833
+2023-03-05 10:50:35,317 education-num stddev: 2.2051
+
+2023-03-05 10:50:35,318 native-country: Hungary
+2023-03-05 10:50:35,318 education-num mean: 10.7692
+2023-03-05 10:50:35,318 education-num stddev: 1.7867
+
+2023-03-05 10:50:35,319 native-country: Holand-Netherlands
+2023-03-05 10:50:35,319 education-num mean: 10.0000
+2023-03-05 10:50:35,319 education-num stddev: nan
+
+2023-03-05 10:50:35,319 -------------------------------------------
+2023-03-05 10:50:35,319 Calculate slice performance for         capital-gain with native-country held fixed value
+2023-03-05 10:50:35,322 native-country: United-States
+2023-03-05 10:50:35,322 capital-gain mean: 1089.2299
+2023-03-05 10:50:35,322 capital-gain stddev: 7381.8985
+
+2023-03-05 10:50:35,323 native-country: Cuba
+2023-03-05 10:50:35,323 capital-gain mean: 367.2316
+2023-03-05 10:50:35,323 capital-gain stddev: 1585.3256
+
+2023-03-05 10:50:35,324 native-country: Jamaica
+2023-03-05 10:50:35,324 capital-gain mean: 475.1358
+2023-03-05 10:50:35,324 capital-gain stddev: 2786.3776
+
+2023-03-05 10:50:35,325 native-country: India
+2023-03-05 10:50:35,325 capital-gain mean: 3604.9200
+2023-03-05 10:50:35,325 capital-gain stddev: 17167.7765
+
+2023-03-05 10:50:35,326 native-country: ?
+2023-03-05 10:50:35,326 capital-gain mean: 1806.5180
+2023-03-05 10:50:35,326 capital-gain stddev: 11137.2774
+
+2023-03-05 10:50:35,327 native-country: Mexico
+2023-03-05 10:50:35,327 capital-gain mean: 347.0280
+2023-03-05 10:50:35,327 capital-gain stddev: 4332.3717
+
+2023-03-05 10:50:35,328 native-country: South
+2023-03-05 10:50:35,328 capital-gain mean: 1869.7375
+2023-03-05 10:50:35,328 capital-gain stddev: 11483.4004
+
+2023-03-05 10:50:35,329 native-country: Puerto-Rico
+2023-03-05 10:50:35,329 capital-gain mean: 317.1930
+2023-03-05 10:50:35,329 capital-gain stddev: 1371.8167
+
+2023-03-05 10:50:35,330 native-country: Honduras
+2023-03-05 10:50:35,330 capital-gain mean: 0.0000
+2023-03-05 10:50:35,330 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,331 native-country: England
+2023-03-05 10:50:35,331 capital-gain mean: 864.7222
+2023-03-05 10:50:35,331 capital-gain stddev: 3279.7664
+
+2023-03-05 10:50:35,332 native-country: Canada
+2023-03-05 10:50:35,332 capital-gain mean: 1504.1322
+2023-03-05 10:50:35,332 capital-gain stddev: 9417.6869
+
+2023-03-05 10:50:35,333 native-country: Germany
+2023-03-05 10:50:35,333 capital-gain mean: 887.0949
+2023-03-05 10:50:35,333 capital-gain stddev: 3627.3852
+
+2023-03-05 10:50:35,334 native-country: Iran
+2023-03-05 10:50:35,334 capital-gain mean: 2044.6512
+2023-03-05 10:50:35,334 capital-gain stddev: 5970.9495
+
+2023-03-05 10:50:35,335 native-country: Philippines
+2023-03-05 10:50:35,335 capital-gain mean: 1018.3434
+2023-03-05 10:50:35,335 capital-gain stddev: 7533.3147
+
+2023-03-05 10:50:35,336 native-country: Italy
+2023-03-05 10:50:35,336 capital-gain mean: 611.5068
+2023-03-05 10:50:35,336 capital-gain stddev: 2299.3077
+
+2023-03-05 10:50:35,337 native-country: Poland
+2023-03-05 10:50:35,337 capital-gain mean: 684.2833
+2023-03-05 10:50:35,337 capital-gain stddev: 2859.5226
+
+2023-03-05 10:50:35,338 native-country: Columbia
+2023-03-05 10:50:35,338 capital-gain mean: 180.6102
+2023-03-05 10:50:35,338 capital-gain stddev: 787.8998
+
+2023-03-05 10:50:35,339 native-country: Cambodia
+2023-03-05 10:50:35,339 capital-gain mean: 1027.8421
+2023-03-05 10:50:35,339 capital-gain stddev: 3214.6857
+
+2023-03-05 10:50:35,340 native-country: Thailand
+2023-03-05 10:50:35,340 capital-gain mean: 0.0000
+2023-03-05 10:50:35,340 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,341 native-country: Ecuador
+2023-03-05 10:50:35,341 capital-gain mean: 527.6071
+2023-03-05 10:50:35,341 capital-gain stddev: 1881.7853
+
+2023-03-05 10:50:35,341 native-country: Laos
+2023-03-05 10:50:35,342 capital-gain mean: 160.2778
+2023-03-05 10:50:35,342 capital-gain stddev: 680.0010
+
+2023-03-05 10:50:35,342 native-country: Taiwan
+2023-03-05 10:50:35,342 capital-gain mean: 2147.0392
+2023-03-05 10:50:35,342 capital-gain stddev: 14016.2841
+
+2023-03-05 10:50:35,343 native-country: Haiti
+2023-03-05 10:50:35,343 capital-gain mean: 0.0000
+2023-03-05 10:50:35,343 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,344 native-country: Portugal
+2023-03-05 10:50:35,344 capital-gain mean: 228.3784
+2023-03-05 10:50:35,344 capital-gain stddev: 970.8477
+
+2023-03-05 10:50:35,345 native-country: Dominican-Republic
+2023-03-05 10:50:35,345 capital-gain mean: 1476.0571
+2023-03-05 10:50:35,345 capital-gain stddev: 11953.0140
+
+2023-03-05 10:50:35,346 native-country: El-Salvador
+2023-03-05 10:50:35,346 capital-gain mean: 574.3208
+2023-03-05 10:50:35,346 capital-gain stddev: 2591.7165
+
+2023-03-05 10:50:35,347 native-country: France
+2023-03-05 10:50:35,347 capital-gain mean: 547.0345
+2023-03-05 10:50:35,347 capital-gain stddev: 1837.1618
+
+2023-03-05 10:50:35,348 native-country: Guatemala
+2023-03-05 10:50:35,348 capital-gain mean: 230.8281
+2023-03-05 10:50:35,348 capital-gain stddev: 1132.6925
+
+2023-03-05 10:50:35,349 native-country: China
+2023-03-05 10:50:35,349 capital-gain mean: 366.4800
+2023-03-05 10:50:35,349 capital-gain stddev: 1887.7908
+
+2023-03-05 10:50:35,350 native-country: Japan
+2023-03-05 10:50:35,350 capital-gain mean: 2546.2258
+2023-03-05 10:50:35,350 capital-gain stddev: 12937.5541
+
+2023-03-05 10:50:35,351 native-country: Yugoslavia
+2023-03-05 10:50:35,351 capital-gain mean: 347.2500
+2023-03-05 10:50:35,351 capital-gain stddev: 1389.0000
+
+2023-03-05 10:50:35,352 native-country: Peru
+2023-03-05 10:50:35,352 capital-gain mean: 59.0645
+2023-03-05 10:50:35,352 capital-gain stddev: 328.8573
+
+2023-03-05 10:50:35,353 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,353 capital-gain mean: 0.0000
+2023-03-05 10:50:35,353 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,354 native-country: Scotland
+2023-03-05 10:50:35,354 capital-gain mean: 431.5000
+2023-03-05 10:50:35,354 capital-gain stddev: 1494.7598
+
+2023-03-05 10:50:35,355 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,355 capital-gain mean: 0.0000
+2023-03-05 10:50:35,355 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,356 native-country: Greece
+2023-03-05 10:50:35,356 capital-gain mean: 1283.8966
+2023-03-05 10:50:35,356 capital-gain stddev: 3475.4184
+
+2023-03-05 10:50:35,357 native-country: Nicaragua
+2023-03-05 10:50:35,357 capital-gain mean: 199.8235
+2023-03-05 10:50:35,357 capital-gain stddev: 820.2331
+
+2023-03-05 10:50:35,358 native-country: Vietnam
+2023-03-05 10:50:35,358 capital-gain mean: 660.5970
+2023-03-05 10:50:35,358 capital-gain stddev: 2618.1982
+
+2023-03-05 10:50:35,359 native-country: Hong
+2023-03-05 10:50:35,359 capital-gain mean: 0.0000
+2023-03-05 10:50:35,359 capital-gain stddev: 0.0000
+
+2023-03-05 10:50:35,360 native-country: Ireland
+2023-03-05 10:50:35,360 capital-gain mean: 324.4583
+2023-03-05 10:50:35,360 capital-gain stddev: 1121.6586
+
+2023-03-05 10:50:35,360 native-country: Hungary
+2023-03-05 10:50:35,360 capital-gain mean: 716.6154
+2023-03-05 10:50:35,361 capital-gain stddev: 1549.0561
+
+2023-03-05 10:50:35,361 native-country: Holand-Netherlands
+2023-03-05 10:50:35,361 capital-gain mean: 0.0000
+2023-03-05 10:50:35,361 capital-gain stddev: nan
+
+2023-03-05 10:50:35,361 -------------------------------------------
+2023-03-05 10:50:35,361 Calculate slice performance for         capital-loss with native-country held fixed value
+2023-03-05 10:50:35,364 native-country: United-States
+2023-03-05 10:50:35,364 capital-loss mean: 88.5106
+2023-03-05 10:50:35,364 capital-loss stddev: 405.6817
+
+2023-03-05 10:50:35,366 native-country: Cuba
+2023-03-05 10:50:35,366 capital-loss mean: 70.0421
+2023-03-05 10:50:35,366 capital-loss stddev: 339.3037
+
+2023-03-05 10:50:35,367 native-country: Jamaica
+2023-03-05 10:50:35,367 capital-loss mean: 0.0000
+2023-03-05 10:50:35,367 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,368 native-country: India
+2023-03-05 10:50:35,368 capital-loss mean: 131.1200
+2023-03-05 10:50:35,368 capital-loss stddev: 487.4297
+
+2023-03-05 10:50:35,369 native-country: ?
+2023-03-05 10:50:35,369 capital-loss mean: 118.2659
+2023-03-05 10:50:35,369 capital-loss stddev: 471.2307
+
+2023-03-05 10:50:35,370 native-country: Mexico
+2023-03-05 10:50:35,370 capital-loss mean: 24.7449
+2023-03-05 10:50:35,370 capital-loss stddev: 218.5233
+
+2023-03-05 10:50:35,371 native-country: South
+2023-03-05 10:50:35,371 capital-loss mean: 169.4250
+2023-03-05 10:50:35,371 capital-loss stddev: 554.1241
+
+2023-03-05 10:50:35,372 native-country: Puerto-Rico
+2023-03-05 10:50:35,372 capital-loss mean: 55.2281
+2023-03-05 10:50:35,372 capital-loss stddev: 311.1022
+
+2023-03-05 10:50:35,372 native-country: Honduras
+2023-03-05 10:50:35,372 capital-loss mean: 146.3077
+2023-03-05 10:50:35,372 capital-loss stddev: 527.5199
+
+2023-03-05 10:50:35,373 native-country: England
+2023-03-05 10:50:35,373 capital-loss mean: 82.7556
+2023-03-05 10:50:35,373 capital-loss stddev: 387.6715
+
+2023-03-05 10:50:35,374 native-country: Canada
+2023-03-05 10:50:35,374 capital-loss mean: 129.9339
+2023-03-05 10:50:35,374 capital-loss stddev: 493.5936
+
+2023-03-05 10:50:35,375 native-country: Germany
+2023-03-05 10:50:35,375 capital-loss mean: 77.9781
+2023-03-05 10:50:35,375 capital-loss stddev: 371.5029
+
+2023-03-05 10:50:35,376 native-country: Iran
+2023-03-05 10:50:35,376 capital-loss mean: 126.8140
+2023-03-05 10:50:35,376 capital-loss stddev: 471.1524
+
+2023-03-05 10:50:35,377 native-country: Philippines
+2023-03-05 10:50:35,377 capital-loss mean: 98.9545
+2023-03-05 10:50:35,377 capital-loss stddev: 431.8646
+
+2023-03-05 10:50:35,378 native-country: Italy
+2023-03-05 10:50:35,378 capital-loss mean: 27.0822
+2023-03-05 10:50:35,378 capital-loss stddev: 231.3903
+
+2023-03-05 10:50:35,379 native-country: Poland
+2023-03-05 10:50:35,379 capital-loss mean: 34.1833
+2023-03-05 10:50:35,379 capital-loss stddev: 264.7830
+
+2023-03-05 10:50:35,380 native-country: Columbia
+2023-03-05 10:50:35,380 capital-loss mean: 27.1525
+2023-03-05 10:50:35,380 capital-loss stddev: 208.5626
+
+2023-03-05 10:50:35,381 native-country: Cambodia
+2023-03-05 10:50:35,381 capital-loss mean: 183.0526
+2023-03-05 10:50:35,381 capital-loss stddev: 550.2082
+
+2023-03-05 10:50:35,382 native-country: Thailand
+2023-03-05 10:50:35,382 capital-loss mean: 0.0000
+2023-03-05 10:50:35,382 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,383 native-country: Ecuador
+2023-03-05 10:50:35,383 capital-loss mean: 0.0000
+2023-03-05 10:50:35,383 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,384 native-country: Laos
+2023-03-05 10:50:35,384 capital-loss mean: 0.0000
+2023-03-05 10:50:35,384 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,385 native-country: Taiwan
+2023-03-05 10:50:35,385 capital-loss mean: 154.8235
+2023-03-05 10:50:35,385 capital-loss stddev: 542.2596
+
+2023-03-05 10:50:35,386 native-country: Haiti
+2023-03-05 10:50:35,386 capital-loss mean: 73.2955
+2023-03-05 10:50:35,386 capital-loss stddev: 340.8760
+
+2023-03-05 10:50:35,387 native-country: Portugal
+2023-03-05 10:50:35,387 capital-loss mean: 0.0000
+2023-03-05 10:50:35,387 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,388 native-country: Dominican-Republic
+2023-03-05 10:50:35,388 capital-loss mean: 25.1714
+2023-03-05 10:50:35,388 capital-loss stddev: 210.5993
+
+2023-03-05 10:50:35,389 native-country: El-Salvador
+2023-03-05 10:50:35,389 capital-loss mean: 31.1132
+2023-03-05 10:50:35,389 capital-loss stddev: 225.6333
+
+2023-03-05 10:50:35,390 native-country: France
+2023-03-05 10:50:35,390 capital-loss mean: 0.0000
+2023-03-05 10:50:35,390 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,391 native-country: Guatemala
+2023-03-05 10:50:35,391 capital-loss mean: 24.9062
+2023-03-05 10:50:35,391 capital-loss stddev: 199.2500
+
+2023-03-05 10:50:35,392 native-country: China
+2023-03-05 10:50:35,392 capital-loss mean: 179.5200
+2023-03-05 10:50:35,392 capital-loss stddev: 569.6384
+
+2023-03-05 10:50:35,393 native-country: Japan
+2023-03-05 10:50:35,393 capital-loss mean: 57.5323
+2023-03-05 10:50:35,393 capital-loss stddev: 319.6158
+
+2023-03-05 10:50:35,394 native-country: Yugoslavia
+2023-03-05 10:50:35,394 capital-loss mean: 0.0000
+2023-03-05 10:50:35,394 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,395 native-country: Peru
+2023-03-05 10:50:35,395 capital-loss mean: 59.6129
+2023-03-05 10:50:35,395 capital-loss stddev: 331.9106
+
+2023-03-05 10:50:35,396 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,396 capital-loss mean: 0.0000
+2023-03-05 10:50:35,396 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,397 native-country: Scotland
+2023-03-05 10:50:35,397 capital-loss mean: 0.0000
+2023-03-05 10:50:35,397 capital-loss stddev: 0.0000
+
+2023-03-05 10:50:35,398 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,398 capital-loss mean: 222.4211
+2023-03-05 10:50:35,398 capital-loss stddev: 670.4782
+
+2023-03-05 10:50:35,399 native-country: Greece
+2023-03-05 10:50:35,399 capital-loss mean: 295.4483
+2023-03-05 10:50:35,399 capital-loss stddev: 765.5516
+
+2023-03-05 10:50:35,400 native-country: Nicaragua
+2023-03-05 10:50:35,400 capital-loss mean: 100.7941
+2023-03-05 10:50:35,400 capital-loss stddev: 410.5770
+
+2023-03-05 10:50:35,401 native-country: Vietnam
+2023-03-05 10:50:35,401 capital-loss mean: 87.2985
+2023-03-05 10:50:35,401 capital-loss stddev: 413.4687
+
+2023-03-05 10:50:35,402 native-country: Hong
+2023-03-05 10:50:35,402 capital-loss mean: 98.8500
+2023-03-05 10:50:35,402 capital-loss stddev: 442.0706
+
+2023-03-05 10:50:35,403 native-country: Ireland
+2023-03-05 10:50:35,403 capital-loss mean: 78.6250
+2023-03-05 10:50:35,403 capital-loss stddev: 385.1823
+
+2023-03-05 10:50:35,404 native-country: Hungary
+2023-03-05 10:50:35,404 capital-loss mean: 128.3077
+2023-03-05 10:50:35,404 capital-loss stddev: 462.6200
+
+2023-03-05 10:50:35,405 native-country: Holand-Netherlands
+2023-03-05 10:50:35,405 capital-loss mean: 2205.0000
+2023-03-05 10:50:35,405 capital-loss stddev: nan
+
+2023-03-05 10:50:35,405 -------------------------------------------
+2023-03-05 10:50:35,405 Calculate slice performance for         hours-per-week with native-country held fixed value
+2023-03-05 10:50:35,408 native-country: United-States
+2023-03-05 10:50:35,408 hours-per-week mean: 40.4478
+2023-03-05 10:50:35,408 hours-per-week stddev: 12.4172
+
+2023-03-05 10:50:35,410 native-country: Cuba
+2023-03-05 10:50:35,410 hours-per-week mean: 39.1579
+2023-03-05 10:50:35,410 hours-per-week stddev: 10.7845
+
+2023-03-05 10:50:35,411 native-country: Jamaica
+2023-03-05 10:50:35,411 hours-per-week mean: 38.5926
+2023-03-05 10:50:35,411 hours-per-week stddev: 9.2490
+
+2023-03-05 10:50:35,412 native-country: India
+2023-03-05 10:50:35,412 hours-per-week mean: 41.5300
+2023-03-05 10:50:35,412 hours-per-week stddev: 12.2956
+
+2023-03-05 10:50:35,413 native-country: ?
+2023-03-05 10:50:35,413 hours-per-week mean: 41.5129
+2023-03-05 10:50:35,413 hours-per-week stddev: 12.4278
+
+2023-03-05 10:50:35,414 native-country: Mexico
+2023-03-05 10:50:35,414 hours-per-week mean: 40.3406
+2023-03-05 10:50:35,414 hours-per-week stddev: 10.4978
+
+2023-03-05 10:50:35,415 native-country: South
+2023-03-05 10:50:35,415 hours-per-week mean: 42.4125
+2023-03-05 10:50:35,415 hours-per-week stddev: 16.4099
+
+2023-03-05 10:50:35,416 native-country: Puerto-Rico
+2023-03-05 10:50:35,416 hours-per-week mean: 38.5702
+2023-03-05 10:50:35,416 hours-per-week stddev: 9.8430
+
+2023-03-05 10:50:35,416 native-country: Honduras
+2023-03-05 10:50:35,416 hours-per-week mean: 36.3077
+2023-03-05 10:50:35,416 hours-per-week stddev: 10.9040
+
+2023-03-05 10:50:35,417 native-country: England
+2023-03-05 10:50:35,417 hours-per-week mean: 41.8333
+2023-03-05 10:50:35,417 hours-per-week stddev: 14.0122
+
+2023-03-05 10:50:35,418 native-country: Canada
+2023-03-05 10:50:35,418 hours-per-week mean: 40.4050
+2023-03-05 10:50:35,418 hours-per-week stddev: 13.1736
+
+2023-03-05 10:50:35,419 native-country: Germany
+2023-03-05 10:50:35,419 hours-per-week mean: 41.0146
+2023-03-05 10:50:35,419 hours-per-week stddev: 12.3282
+
+2023-03-05 10:50:35,420 native-country: Iran
+2023-03-05 10:50:35,420 hours-per-week mean: 43.9767
+2023-03-05 10:50:35,420 hours-per-week stddev: 11.8633
+
+2023-03-05 10:50:35,421 native-country: Philippines
+2023-03-05 10:50:35,421 hours-per-week mean: 39.5960
+2023-03-05 10:50:35,421 hours-per-week stddev: 10.7064
+
+2023-03-05 10:50:35,422 native-country: Italy
+2023-03-05 10:50:35,422 hours-per-week mean: 41.6027
+2023-03-05 10:50:35,422 hours-per-week stddev: 13.6501
+
+2023-03-05 10:50:35,423 native-country: Poland
+2023-03-05 10:50:35,423 hours-per-week mean: 38.3333
+2023-03-05 10:50:35,423 hours-per-week stddev: 11.7151
+
+2023-03-05 10:50:35,424 native-country: Columbia
+2023-03-05 10:50:35,424 hours-per-week mean: 39.0678
+2023-03-05 10:50:35,424 hours-per-week stddev: 8.7096
+
+2023-03-05 10:50:35,425 native-country: Cambodia
+2023-03-05 10:50:35,425 hours-per-week mean: 40.8947
+2023-03-05 10:50:35,425 hours-per-week stddev: 2.5143
+
+2023-03-05 10:50:35,426 native-country: Thailand
+2023-03-05 10:50:35,426 hours-per-week mean: 45.4444
+2023-03-05 10:50:35,426 hours-per-week stddev: 20.0711
+
+2023-03-05 10:50:35,427 native-country: Ecuador
+2023-03-05 10:50:35,427 hours-per-week mean: 39.5714
+2023-03-05 10:50:35,427 hours-per-week stddev: 10.2358
+
+2023-03-05 10:50:35,428 native-country: Laos
+2023-03-05 10:50:35,428 hours-per-week mean: 40.3333
+2023-03-05 10:50:35,428 hours-per-week stddev: 3.8654
+
+2023-03-05 10:50:35,429 native-country: Taiwan
+2023-03-05 10:50:35,429 hours-per-week mean: 38.8824
+2023-03-05 10:50:35,429 hours-per-week stddev: 15.2495
+
+2023-03-05 10:50:35,430 native-country: Haiti
+2023-03-05 10:50:35,430 hours-per-week mean: 36.9091
+2023-03-05 10:50:35,430 hours-per-week stddev: 11.7766
+
+2023-03-05 10:50:35,431 native-country: Portugal
+2023-03-05 10:50:35,431 hours-per-week mean: 41.8919
+2023-03-05 10:50:35,431 hours-per-week stddev: 8.7171
+
+2023-03-05 10:50:35,432 native-country: Dominican-Republic
+2023-03-05 10:50:35,432 hours-per-week mean: 42.4714
+2023-03-05 10:50:35,432 hours-per-week stddev: 11.0516
+
+2023-03-05 10:50:35,433 native-country: El-Salvador
+2023-03-05 10:50:35,433 hours-per-week mean: 36.7925
+2023-03-05 10:50:35,433 hours-per-week stddev: 9.5316
+
+2023-03-05 10:50:35,434 native-country: France
+2023-03-05 10:50:35,434 hours-per-week mean: 45.0690
+2023-03-05 10:50:35,434 hours-per-week stddev: 14.7186
+
+2023-03-05 10:50:35,435 native-country: Guatemala
+2023-03-05 10:50:35,435 hours-per-week mean: 39.2344
+2023-03-05 10:50:35,435 hours-per-week stddev: 6.5192
+
+2023-03-05 10:50:35,436 native-country: China
+2023-03-05 10:50:35,436 hours-per-week mean: 37.7867
+2023-03-05 10:50:35,436 hours-per-week stddev: 11.0579
+
+2023-03-05 10:50:35,436 native-country: Japan
+2023-03-05 10:50:35,437 hours-per-week mean: 43.6935
+2023-03-05 10:50:35,437 hours-per-week stddev: 13.9855
+
+2023-03-05 10:50:35,437 native-country: Yugoslavia
+2023-03-05 10:50:35,437 hours-per-week mean: 44.5625
+2023-03-05 10:50:35,437 hours-per-week stddev: 11.5814
+
+2023-03-05 10:50:35,438 native-country: Peru
+2023-03-05 10:50:35,438 hours-per-week mean: 35.3871
+2023-03-05 10:50:35,438 hours-per-week stddev: 11.2833
+
+2023-03-05 10:50:35,439 native-country: Outlying-US(Guam-USVI-etc)
+2023-03-05 10:50:35,439 hours-per-week mean: 41.8571
+2023-03-05 10:50:35,439 hours-per-week stddev: 10.7479
+
+2023-03-05 10:50:35,440 native-country: Scotland
+2023-03-05 10:50:35,440 hours-per-week mean: 41.2500
+2023-03-05 10:50:35,440 hours-per-week stddev: 9.7991
+
+2023-03-05 10:50:35,441 native-country: Trinadad&Tobago
+2023-03-05 10:50:35,441 hours-per-week mean: 37.3684
+2023-03-05 10:50:35,441 hours-per-week stddev: 11.8002
+
+2023-03-05 10:50:35,442 native-country: Greece
+2023-03-05 10:50:35,442 hours-per-week mean: 44.2414
+2023-03-05 10:50:35,442 hours-per-week stddev: 15.9299
+
+2023-03-05 10:50:35,443 native-country: Nicaragua
+2023-03-05 10:50:35,443 hours-per-week mean: 36.1765
+2023-03-05 10:50:35,443 hours-per-week stddev: 8.4260
+
+2023-03-05 10:50:35,444 native-country: Vietnam
+2023-03-05 10:50:35,444 hours-per-week mean: 37.3433
+2023-03-05 10:50:35,444 hours-per-week stddev: 11.9628
+
+2023-03-05 10:50:35,445 native-country: Hong
+2023-03-05 10:50:35,445 hours-per-week mean: 40.9000
+2023-03-05 10:50:35,445 hours-per-week stddev: 6.8202
+
+2023-03-05 10:50:35,446 native-country: Ireland
+2023-03-05 10:50:35,446 hours-per-week mean: 42.4167
+2023-03-05 10:50:35,446 hours-per-week stddev: 8.3558
+
+2023-03-05 10:50:35,447 native-country: Hungary
+2023-03-05 10:50:35,447 hours-per-week mean: 35.6154
+2023-03-05 10:50:35,447 hours-per-week stddev: 18.5272
+
+2023-03-05 10:50:35,448 native-country: Holand-Netherlands
+2023-03-05 10:50:35,448 hours-per-week mean: 40.0000
+2023-03-05 10:50:35,448 hours-per-week stddev: nan
+
