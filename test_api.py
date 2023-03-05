@@ -30,6 +30,8 @@ def test_post_return_0():
         },
         timeout=15
     )
+    print("[*] Testing post method which will return 0")
+    print(response.json())
     assert response.status_code == 200
     assert response.json()['predict'] == 0
 
@@ -55,6 +57,8 @@ def test_post_return_1():
         },
         timeout=15
     )
+    print("[*] Testing post method which will return 1")
+    print(response.json())
     assert response.status_code == 200
     assert response.json()['predict'] == 1
 
