@@ -30,4 +30,3 @@ jobs:
     
     - name: Run python test
       run: pytest .
-      working-directory: ml/
