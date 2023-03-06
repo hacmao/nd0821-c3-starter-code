@@ -33,3 +33,8 @@ Based on validation data, this model's performance is measured by following metr
 + recall: 0.269
 + fbeta: 0.391
 
+## Ethical Considerations
+Ethical considerations listed as part of conditions for use of the Census Bureau data also apply here.
+
+## Caveats and Recommendations
+This model is only used for research only. Please check the performance before apply it to production.
